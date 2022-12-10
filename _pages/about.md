@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Selim C. Hotinli, Cosmologist"
+title: "Selim C. Hotinli, cosmologist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
