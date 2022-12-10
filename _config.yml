@@ -85,8 +85,8 @@ author:
   bio              : "Horizon Postdoctoral Fellow"
   location         : 
   employer         : "Johns Hopkins University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=jFgpKboAAAAJ&hl=en"
   email            : "shotinl1@jh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
