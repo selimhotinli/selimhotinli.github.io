@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My most up-to-date CV can be found at [Selim C. Hotinli]
+My most up-to-date CV (including my publications) can be found at [Selim C. Hotinli](https://github.com/selimhotinli/selimhotinli.github.io/SelimC_Hotinli_CV_Dec_ref.pdf)
