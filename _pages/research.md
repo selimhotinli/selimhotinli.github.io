@@ -14,6 +14,6 @@ I am interested in the following research questions:
 1. What were the dynamics and interactions in the early Universe? 
 2. What is the nature of dark matter and dark energy? 
 3. What are the fundamental principles that govern the major cosmological transitions in our Universe, such as hydrogen and helium reionization? 
-4. How can we increase the prospects to learn fundamental physics and particle physics from cosmological surveys? 
+4. How can we increase the prospects to learn fundamental physics and astrophysics from cosmological surveys? 
 
 
