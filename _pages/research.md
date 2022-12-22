@@ -26,13 +26,13 @@ Kinetic Sunyaev Zel'dovich (kSZ) effect is a doppler effect due to CMB photons s
 
 What is important about this effect is that it traces the bulk velocity fields of electrons — in that when electrons have larger radial velocity, the effect is more apparent, and when they have lower velocity effect is less apparent. As a result we can write estimators that capitalize on this statistical anisotropy to reconstruct the large scale velocity field — and the methods we have been developing are quite promising suggesting we will be able to recover information about the cosmological velocity field on large scales very efficiently this way (see e.g. Cayuso et al 2020). The tomographic reconstruction is demonstrated using a simation below for a narrow redshift bin near z=0.5 with noise and foreground specifications matching S3 survey specifications.
 
-<br/><img src='selim-hotinli-imperial-research-fellowship_1669244802034_0.jpg'>
+<br/><img src='/_pages/selim-hotinli-imperial-research-fellowship_1669244802034_0.jpg'>
 
 ### Probing Helium reionization with CMB x LSS
 
 In addition to probing large-scale deviations from LCDM, the reconstruction program can contribute significantly to the characterisation of both hydrogen (Hotinli and Johnson 2020) and helium (Hotinli et al 2022) reionization (image below).
 
-<br/><img src='selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg'>
+<br/><img src='/_pages/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg'>
 
 Characterising helium reionization has great significance for understanding galaxy formation, quasar activity and cosmology, and may open a new window on big bang nucleosynthesis.  Since photons emitted by the first stars (sourcing the reionization of hydrogen) are not energetic enough to fully ionize helium, helium reionization occurs only after the emergence of a substantial number of quasars. As a result, the history of helium reionization strongly depends on the properties of quasars, such as their luminosity function, accretion mechanisms and other astrophysics, clustering, variability, lifetimes, as well as the general growth and evolution of super-massive black holes. Since essentially all of the helium in the Universe is ultimately doubly ionized, the total change in the ionization fraction is also a measure of the primordial helium abundance—a sensitive probe of big bang nucleosynthesis. Furthermore, probing helium reionization can also improve our understanding of relativistic species through improving the primordial helium fraction measurement and breaking the degeneracy between the number of relativistic species and primordial helium fraction. As the primordial helium abundance depends on the weak interaction rates as well as the neutron lifetime, improving its measurement can also allow further valuable insights into our cosmological history. Observational challenges posed by helium emission line measurements make additional probes extremely valuable.
 
