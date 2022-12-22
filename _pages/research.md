@@ -28,6 +28,8 @@ What is important about this effect is that it traces the bulk velocity fields o
 
 <br/><img src='selim-hotinli-imperial-research-fellowship_1669244802034_0.jpg'>
 
+# Probing Helium reionization with CMB x LSS
+
 In addition to probing large-scale deviations from LCDM, the reconstruction program can contribute significantly to the characterisation of both hydrogen (Hotinli and Johnson 2020) and helium (Hotinli et al 2022) reionization (image below).
 
 <br/><img src='selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg'>
