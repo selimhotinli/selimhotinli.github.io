@@ -16,7 +16,7 @@ I am interested in the following research questions:
 3. What are the fundamental principles that govern the major cosmological transitions in our Universe, such as hydrogen and helium reionization? 
 4. How can we increase the prospects to learn fundamental physics and astrophysics from cosmological surveys? 
 
-# Kinetic Sunyaev Zel'dovich tomography
+### Kinetic Sunyaev Zel'dovich tomography
 
 In the recent years I have authored research papers which demonstrated that the kinetic Sunyaev Zel'dovich (kSZ) tomography (or radial-velocity reconstruction) (Cayuso et al 2020) will provide the most competitive constraints on primordial non-Gaussianity (Kumar et al 2022) and isocurvature (Hotinli et al 2019, Kumar et al 2022), smoking-gun signatures of inflationary scenarios or unknown components that may have been active during the early epoch of our Universe. In the former study, we have also demonstrated an opportunity to unambiguously probe unknown components in the early Universe by comparing different forms of higher-order statistics of the density fluctuations. These efforts are complementary to the core science goals of upcoming CMB experiments, such as measuring the effective number of relativistic species. My research has shown, for example, that the Figure of Merit (FoM) characterising the statistical information content of the joint analysis of large-scale galaxy clustering and velocity fields (latter reconstructed from measurements of the kSZ effect) with Simons Observatory and DESI data by 2026 can be greater by a factor of over an order-of-magnitude compared to considering DESI galaxy clustering in isolation. After the first year data release of LSST, this difference could reach over two orders of magnitude compared to considering LSST in isolation.
 
@@ -28,7 +28,7 @@ What is important about this effect is that it traces the bulk velocity fields o
 
 <br/><img src='selim-hotinli-imperial-research-fellowship_1669244802034_0.jpg'>
 
-# Probing Helium reionization with CMB x LSS
+### Probing Helium reionization with CMB x LSS
 
 In addition to probing large-scale deviations from LCDM, the reconstruction program can contribute significantly to the characterisation of both hydrogen (Hotinli and Johnson 2020) and helium (Hotinli et al 2022) reionization (image below).
 
