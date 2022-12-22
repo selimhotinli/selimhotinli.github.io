@@ -25,3 +25,5 @@ Kinetic Sunyaev Zel'dovich (kSZ) effect is a doppler effect due to CMB photons s
 <br/><img src='img1_1669214559713_0.jpg'>
 
 What is important about this effect is that it traces the bulk velocity fields of electrons — in that when electrons have larger radial velocity, the effect is more apparent, and when they have lower velocity effect is less apparent. As a result we can write estimators that capitalize on this statistical anisotropy to reconstruct the large scale velocity field — and the methods we have been developing are quite promising suggesting we will be able to recover information about the cosmological velocity field on large scales very efficiently this way (see e.g. Cayuso et al 2020). The tomographic reconstruction is demonstrated using a simation below for a narrow redshift bin near z=0.5 with noise and foreground specifications matching S3 survey specifications.
+
+<br/><img src='selim-hotinli-imperial-research-fellowship_1669244802034_0.jpg'>
