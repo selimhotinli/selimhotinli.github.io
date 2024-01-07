@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The most up-to-date version of my CV (including my publications) can be found [here](https://github.com/selimhotinli/selimhotinli.github.io/blob/master/Selim_Hotinli_CV_Dec23_NOK.pdf)
+The most up-to-date version of my CV (including my publications) can be found [here](https://github.com/selimhotinli/selimhotinli.github.io/blob/master/Selim_Hotinli_CV_Jan7.pdf)
 
 My PhD thesis (2020) on new directions in cosmology and astrophysics can be found [here](https://inspirehep.net/files/a4d82f973a26c9cceca45fa5e960a26a)
 
