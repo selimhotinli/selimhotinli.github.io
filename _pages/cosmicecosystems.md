@@ -5,6 +5,8 @@ permalink: /cosmicecosystems/
 author_profile: true
 ---
 
+<br/><img src='/images/cosmicecosystems' width="500">
+
 {% include base_path %}
 
 In the past three decades, one of the most transformative insights in cosmology has been the realisation that the formation and evolution processes of cosmic structures such as supermassive black-holes, galaxies and clusters are deeply interconnected with the vast cosmic web that underpins the Universe. These processes do not happen in isolation, but are part of a dynamic ecosystem where matter and energy flow across scales, driving the growth and transformation of cosmic environments. Understanding this complex system, in particular the circum-galactic medium (CGM), is not only key to deciphering how matter is cycled and redistributed through accretion via filaments and outflows from AGN and supernovae, but also crucial for unlocking the next generation of discoveries in areas such as dark matter, the behaviour of the cosmic web, the forces that shape cosmic evolution, and more.
