@@ -24,11 +24,11 @@ The goal is to explore the complementarity of these data sets and how their alig
 
 The conference will cover a range of themes that focus on delineating and connecting the different scales and phases of the CGM, with a clear emphasis on their links to cosmological themes. The below themes aim to build a coherent picture of the cosmic ecosystem by systematically linking scales and phases.  
 
-### Small to large scales.
-### Hot gas to cold gas.
-### Galactic to intergalactic scales.
-### Diffuse to dense structures.
-### Past feedback processes to present-day observations. 
+- ### Small to large scales.
+- ### Hot gas to cold gas.
+- ### Galactic to intergalactic scales.
+- ### Diffuse to dense structures.
+- ### Past feedback processes to present-day observations. 
 
 Together, these helps provide a multi-faceted exploration of how baryonic physics connects all aspects of the universe and form a unified understanding of it across time and space.  
 
