@@ -14,6 +14,8 @@ In the past three decades, one of the most transformative insights in cosmology 
 This conference seeks to bring together cosmologists and astrophysicists to foster collaborative exploration of these interconnected cosmic ecosystems. By focusing on how structures interact with their environments across cosmic scales, this conference aims to catalyse groundbreaking discoveries in both astronomy and physics, providing fresh insights into the forces that govern the Universe. Special attention will be given to the joint analysis of large-scale structure and weak gravitational lensing data from surveys such as DESI, Euclid, LSST and Roman with CMB data from the Simons Observatory and CMB-S4, as well as how these can be integrated with observations of JWST, and existing and upcoming observations of X-ray emission, UV/X-ray absorption toward quasars, 21-cm emission, and FRBs.
  
 The goal is to explore the complementarity of these data sets and how their alignment can provide new insights into the interconnected processes shaping cosmic environments, particularly through joint modelling and simulations of many phases of gas and feedback across different regimes. Attention will also be given to bridging the gap between how cosmologists and astronomers approach the CGM, either top-down large-scale and hot and virial phase, vs bottom-up, cooler phases, at smaller scales.
+
+Please register using: [*Click me!*](https://events.perimeterinstitute.ca/event/927/overview)
  
 ## Topics will include:
 
