@@ -1,59 +1,180 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Cosmic Ecosystems"
+permalink: /cosmicecosystems/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Scientific programs involving joint-analyses of different tracers of large-scale structure (LSS) and CMB are increasingly gaining attention as they often increase the prospects to detect and characterise new signals by reducing systematics, cancelling cosmic variance and breaking degeneracies. 
-My research on these lines focuses in part on the reconstruction of large-scale cosmological fluctuations at different epochs of the Universe by using the CMB as a back-light; observing the scattering and gravitational lensing effects on the CMB by the intervening cosmological structure. My continuing work has demonstrated that this program will provide the most precise tests of fundamental physics and has the potential to open new and unique windows into unexplored epochs of structure formation, while not requiring new experiments other than those being built or proposed. 
+In the past three decades, one of the most transformative insights in cosmology has been the realisation that the formation and evolution processes of cosmic structures such as supermassive black-holes, galaxies and clusters are deeply interconnected with the vast cosmic web that underpins the Universe. These processes do not happen in isolation, but are part of a dynamic ecosystem where matter and energy flow across scales, driving the growth and transformation of cosmic environments. Understanding this complex system, in particular the circum-galactic medium (CGM), is not only key to deciphering how matter is cycled and redistributed through accretion via filaments and outflows from AGN and supernovae, but also crucial for unlocking the next generation of discoveries in areas such as dark matter, the behaviour of the cosmic web, the forces that shape cosmic evolution, and more.
+ 
+This conference seeks to bring together cosmologists and astrophysicists to foster collaborative exploration of these interconnected cosmic ecosystems. By focusing on how structures interact with their environments across cosmic scales, this conference aims to catalyse groundbreaking discoveries in both astronomy and physics, providing fresh insights into the forces that govern the Universe. Special attention will be given to the joint analysis of large-scale structure and weak gravitational lensing data from surveys such as DESI, Euclid, LSST and Roman with CMB data from the Simons Observatory and CMB-S4, as well as how these can be integrated with observations of JWST, and existing and upcoming observations of X-ray emission, UV/X-ray absorption toward quasars, 21-cm emission, and FRBs.
+ 
+The goal is to explore the complementarity of these data sets and how their alignment can provide new insights into the interconnected processes shaping cosmic environments, particularly through joint modelling and simulations of many phases of gas and feedback across different regimes. Attention will also be given to bridging the gap between how cosmologists and astronomers approach the CGM, either top-down large-scale and hot and virial phase, vs bottom-up, cooler phases, at smaller scales.
+ 
+### Topics will include:
 
-I am interested in the following research questions: 
-1. What were the dynamics and interactions in the early Universe? 
-2. What is the nature of dark matter and dark energy? 
-3. What are the fundamental principles that govern the major cosmological transitions in our Universe, such as hydrogen and helium reionization? 
-4. How can we increase the prospects to learn fundamental physics and astrophysics from cosmological surveys? 
+· Cosmic mass budget, including a census of where the baryons are.
+· Effect of baryons on dark matter structures on small and large scales.
+· Cosmic evolution of large-scale structures.
+· Bridging the gap between different probes.
 
-### Kinetic Sunyaev Zel'dovich tomography
+The conference will cover a range of themes that focus on delineating and connecting the different scales and phases of the CGM, with a clear emphasis on their links to cosmological themes. The below themes aim to build a coherent picture of the cosmic ecosystem by systematically linking scales and phases.  
 
-In the recent years I have authored research papers which demonstrated that the kinetic Sunyaev Zel'dovich (kSZ) tomography (or radial-velocity reconstruction) (Cayuso et al 2020) will provide the most competitive constraints on primordial non-Gaussianity (Kumar et al 2022) and isocurvature (Hotinli et al 2019, Kumar et al 2022), smoking-gun signatures of inflationary scenarios or unknown components that may have been active during the early epoch of our Universe. In the former study, we have also demonstrated an opportunity to unambiguously probe unknown components in the early Universe by comparing different forms of higher-order statistics of the density fluctuations. These efforts are complementary to the core science goals of upcoming CMB experiments, such as measuring the effective number of relativistic species. My research has shown, for example, that the Figure of Merit (FoM) characterising the statistical information content of the joint analysis of large-scale galaxy clustering and velocity fields (latter reconstructed from measurements of the kSZ effect) with Simons Observatory and DESI data by 2026 can be greater by a factor of over an order-of-magnitude compared to considering DESI galaxy clustering in isolation. After the first year data release of LSST, this difference could reach over two orders of magnitude compared to considering LSST in isolation.
+### Small to large scales.
+### Hot gas to cold gas.
+### Galactic to intergalactic scales.
+### Diffuse to dense structures.
+### Past feedback processes to present-day observations. 
 
-Kinetic Sunyaev Zel'dovich (kSZ) effect is a doppler effect due to CMB photons scattering off on energetic electrons in the large-scale structure that have some non-zero radial velocity. This effect is very significant and will dominate the small-scale observations of the black-body CMB in the upcoming decade. Below, you can see how this effects looks like from the websky simulation. It is   these small-scale distortions in the CMB intensity that we measure.
+Together, these helps provide a multi-faceted exploration of how baryonic physics connects all aspects of the universe and form a unified understanding of it across time and space.  
 
-<br/><img src='/images/img1_1669214559713_0.jpg' width="500">
+These themes are detailed further below. 
 
-What is important about this effect is that it traces the bulk velocity fields of electrons — in that when electrons have larger radial velocity, the effect is more apparent, and when they have lower velocity effect is less apparent. As a result we can write estimators that capitalize on this statistical anisotropy to reconstruct the large scale velocity field — and the methods we have been developing are quite promising suggesting we will be able to recover information about the cosmological velocity field on large scales very efficiently this way (see e.g. Cayuso et al 2020). The tomographic reconstruction is demonstrated using a simation below for a narrow redshift bin near z=0.5 with noise and foreground specifications matching S3 survey specifications.
+### 1. Connecting the Smallest to the Largest: From Subgrid Feedback Physics to Cosmic Large-Scale Structure 
 
-<br/><img src='/images/selim-hotinli-imperial-research-fellowship_1669244802034_0.jpg' width="500">
+Scope: This theme bridges the smallest scales of feedback, such as AGN and supernovae (SNe), with their impact on the large-scale structure (LSS) of the universe. It explores how microphysics (e.g., jets, winds, and turbulence) propagates through simulations and influences the baryonic distribution and clustering on cosmological scales. 
 
-### Probing Helium reionization with CMB x LSS
+### Example Topics: 
 
-In addition to probing large-scale deviations from LCDM, the reconstruction program can contribute significantly to the characterisation of both hydrogen (Hotinli and Johnson 2020) and helium (Hotinli et al 2022) reionization (image below).
+Modeling small-scale feedback and its effects on matter power spectrum suppression.
+Scaling laws between AGN/SNe energetics and LSS properties.
+Feedback imprints on the thermal and kinetic Sunyaev-Zel’dovich effects and connections with weak lensing.
+Observational tests: Connecting feedback models to SZ/X-ray cluster data and galaxy surveys. 
+ 
+### 2. Linking Hot Gas to Cold Gas: Baryon Cycling in the Cosmic Ecosystem 
 
-<br/><img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' width="500">
+Scope: This theme connects the hot ionized gas (e.g., in galaxy clusters and CGM) to cold neutral/molecular gas (e.g., in star-forming regions). It investigates how feedback processes mediate phase transitions, driving the baryon cycle between these reservoirs. 
 
-Characterising helium reionization has great significance for understanding galaxy formation, quasar activity and cosmology, and may open a new window on big bang nucleosynthesis.  Since photons emitted by the first stars (sourcing the reionization of hydrogen) are not energetic enough to fully ionize helium, helium reionization occurs only after the emergence of a substantial number of quasars. As a result, the history of helium reionization strongly depends on the properties of quasars, such as their luminosity function, accretion mechanisms and other astrophysics, clustering, variability, lifetimes, as well as the general growth and evolution of super-massive black holes. Since essentially all of the helium in the Universe is ultimately doubly ionized, the total change in the ionization fraction is also a measure of the primordial helium abundance—a sensitive probe of big bang nucleosynthesis. Furthermore, probing helium reionization can also improve our understanding of relativistic species through improving the primordial helium fraction measurement and breaking the degeneracy between the number of relativistic species and primordial helium fraction. As the primordial helium abundance depends on the weak interaction rates as well as the neutron lifetime, improving its measurement can also allow further valuable insights into our cosmological history. Observational challenges posed by helium emission line measurements make additional probes extremely valuable.
+Example Topics: 
 
-One of the main research programs I lead focuses on characterisation of both hydrogen (Hotinli and Johnson 2020) and helium reionization (Hotinli et al 2022)  from joint analyses of LSS and CMB data. In particular, characterising helium reionization has great significance for understanding galaxy formation, quasar activity and cosmology.  Since photons emitted by the first stars (sourcing the reionization of hydrogen) are not energetic enough to fully ionize helium, helium reionization occurs only after the emergence of a substantial number of quasars.
+Shock heating of cold gas to hot gas via AGN and galactic winds. 
 
-As a result, the history of helium reionization strongly depends on the properties of quasars, such as their luminosity function, accretion mechanisms and other astrophysics, clustering, variability, lifetimes, as well as the general growth and evolution of super-massive black holes. Observational challenges posed by helium emission line measurements make additional probes extremely valuable. I anticipate a multitude of studies will follow my work, capitalising on the statistical power of cross-correlations between CMB and different high-redshift LSS probes. These results are extremely promising and will likely re-ignite the interest from the community for helium reionization. My efforts currently focus on advancing scientific programs involving characterisation of helium reionization with joint analyses of CMB and LSS including contributing to building up the science cases of the line-intensity signals, which will be a promising direction within this program, and transform this area into an active, evolving field of research. 
+Cooling flows and condensation in the CGM and galaxy clusters. 
 
-<br/><img src='/images/selim-hotinli-imperial-research-fellowship-2_1669245332786_0.jpg' width="500">
+Observational tracers: SZ and X-ray for hot gas, and CO and HI for cold gas. 
 
-On this image: We now know that the hydrogen and helium fully ionizes in the Universe after the formation of first luminous objects. During this process, the ionization fraction (the fraction of free electrons) goes from zero to, say 1, for all the electrons in the hydrogen atom being ionized (kicked away of their proton). This happens soon after the first stars form. You may notice that this line does not end at one, however, which is because helium also ionizes, loosing its first electron around the same time as hydrogen. However the second electron in helium requires much more energy to ionize which only happens after sufficient numbers of much more luminous objects such as quasars, due to active galactic nuclei formation. As a result, the history of helium reionization strongly depends on the properties of quasars, such as their luminosity, accretion mechanisms and other very much unknown astrophysics, clustering, variability, lifetimes, as well as the general growth and evolution of super-massive black holes. In a recent work, I have shown for the first time that the joint analysis of the CMB and upcoming high-redshift galaxy surveys can indeed probe this epoch. (See arXiv:2207.07660)
+Feedback-regulated star formation and its influence on galaxy evolution. 
 
-### Other CMB signatures
+### 3. From the Circumgalactic Medium to the Intergalactic Medium: Feedback's Reach Beyond Galaxies 
 
-In the last years I have also made valuable contributions to identifying various novel CMB signatures including the moving lens effect (Hotinli et al 2018, Hotinli et al 2020, Hotinli et al 2021), the pSZ (Lee et al 2022) and kpSZ (Hotinli et al 2022) effects. My efforts on these lines also explored the full reach of the prospects to probing fundamental physics with these signatures. The moving-lens effect is due to cosmological structure moving transverse to our line of sight and results of purely gravitational effects. As a result, it can be used to measure quantities which cannot be accessed directly with the kSZ effect alone, such as the growth rate of density fluctuations, which is useful for studying dark energy, modified gravity, and the effects of neutrino mass (Hotinli et al 2018). The polarized Sunyaev Zel'dovich (pSZ) effect is a linear blackbody polarization sourced by photons that scatter off free electrons in the large-scale structure, proportional to the remote CMB temperature quadrupole observed in the electrons’ rest frame. The measurement of pSZ effect allows reconstructing the linear polarization of the CMB as a function of redshift on the light cone. This allows probing the tensor to scalar ratio as well as the cosmic birefringence angle (Lee et al 2022) that is sourced if the physics behind dark energy and/or dark matter violates the parity symmetry assumed in the standard cosmological paradigm. Relativistic corrections to the remote quadrupole field also give rise to a non-blackbody polarization anisotropy proportional to the square of the transverse peculiar velocity field; this is the kinetic polarized Sunyaev Zel’dovich (kpSZ) effect. The kpSZ effect is also a probe of cosmic birefringence and primordial non-Gaussianity (Hotinli et al 2022).
+Scope: This theme examines how feedback-driven processes in the circumgalactic medium (CGM) extend into the intergalactic medium (IGM). It focuses on the transition from galaxy-scale to cosmic web-scale interactions, highlighting turbulence, outflows, and the redistribution of metals and energy. 
 
-### Improving CMB measurements
 
-The effects of gravitational lensing and scattering on the CMB photons is both a help and hindrance to our understanding of the history and contents of the Universe. Both lensing and scattering effects manifest themselves as a distortion of the primary CMB anisotropies and also functions as an obstacle to analyses which rely on a pristine view of the last scattering surface. Simons Observatory and the succeeding experiments will map the CMB sky with unprecedented precision where these effects will be limiting factors to cosmological inference. My current and future efforts also focus on mitigating the effects of lensing and scattering on the primary CMB with the goal of improving the forthcoming cosmological parameter constraints. 
+Example Topics: 
 
-To this end, I co-developed a code for robust treatments of CMB ‘delensing’ on the curved sky, demonstrating the impact that removing the lensing effect from the CMB map will have with future surveys. Together with the forecasting framework I co-developed, these softwares are now becoming parts of the main analysis pipelines of the upcoming CMB experiments. I have also authored research papers on assessing the prospects to delens the CMB temperature and polarisation maps as well as to remove the kSZ effect using external galaxy templates, or ‘de-kSZing' (Foreman, Hotinli et al 2020).
+Metal and energy enrichment of the IGM from CGM-driven feedback. 
 
-The delensed CMB spectra have sharper acoustic peaks and more prominent damping tails, allowing for improved inferences of cosmological parameters that impact those features. Delensing reduces the B-mode power, aiding the search for primordial gravitational waves and allowing for lower variance reconstruction of lensing and other sources of secondary CMB anisotropies. Lensing-induced power spectrum covariances are reduced by delensing, simplifying analyses and improving constraints on primordial non-Gaussianities. Biases that result from incorrectly modelling nonlinear and baryonic feedback effects on the lensing power spectrum are mitigated by delensing. All of these benefits are possible without any changes to experimental or survey design. 
+Outflows and winds: Connecting galactic feedback to the cosmic web. 
 
-The situation with the kSZ effect is analogous to that of gravitational lensing. In a recent work, we investigated the prospects for external “de-kSZing'' of CMB temperature maps, whereby an external galaxy survey is used to construct a template for the kSZ effect, which is then subtracted from the observed maps. The kSZ effect can significantly bias lensing reconstruction, affecting our ability to constrain neutrino mass, dark energy, and dark matter. Furthermore, kSZ fluctuations at small scales add noise to measurements of the Silk-damped regime of the primary CMB, which can be used to probe Neff, the primordial helium abundance, and the spectrum of primordial scalar perturbations. The kSZ effect also acts as noise for measurements of other CMB secondaries, such as the moving-lens effect.
+Observables: Lyman-alpha Forest statistics and metal absorption lines. 
+
+Feedback's role in shaping the thermal history of the IGM. 
+
+### 4. Tying the Diffuse to the Dense: Connecting Gas Phases and The Role of Turbulence 
+
+Scope: This theme focuses on the interplay between diffuse gas (e.g., ionized or neutral IGM) and compact structures (e.g., molecular clouds and galaxies), include discussions on turbulence and cosmic ray interactions. It highlights how energy transfer and phase transitions bridge vastly different density and temperature regimes. 
+
+
+Example Topics: 
+
+Turbulence-driven mixing and cooling in diffuse and dense gas. 
+
+Cosmic ray heating and its role in regulating star-forming regions. 
+
+Feedback-driven redistribution of energy across scales and phases. 
+
+Theoretical and observational approaches to tracing these processes. 
+
+### 5. Bridging the Present and the Past: Feedback's Role in Linking Cosmic History to Current Observables 
+
+Scope: 
+This theme connects feedback's influence on the cosmic ecosystem across time, from early epochs of structure formation to the present universe. It examines how feedback processes evolve with cosmic time and leave imprints observable today, such as in the Lyman-alpha Forest, SZ effect, and FRBs. 
+
+
+Example Topics: 
+
+Feedback in early structure formation: First galaxies and reionization-era IGM. 
+
+Evolution of feedback mechanisms with cosmic time (e.g., AGN vs. stellar feedback dominance). 
+
+Imprints of feedback history in current observables (e.g., SZ, X-ray, and FRBs). 
+
+Linking simulations across epochs: From early cosmic dawn to mature LSS.
+ 
+The time has never been more right to unify these fields, as advances in observation, theory and simulations are poised to open new paths to revealing the cosmos’ most profound mysteries.
+ 
+::  ::  ::
+
+### Organizing Committee (LOC) 
+ 
+Selim Hotinli (Perimeter Institute) 
+
+Neal Dalal (Perimeter Institute) 
+
+Mike Hudson (University of Waterloo, Waterloo Centre for Astrophysics) 
+
+Matt Johnson (Perimeter Institute) 
+
+Katie Mack (Perimeter Institute) 
+
+Brian McNamara (University of Waterloo, Waterloo Centre for Astrophysics) 
+
+Arielle Phillips (University of Notre Dame / Simons Emmy Noether Fellow at Perimeter Institute) 
+
+Kendrick Smith (Perimeter Institute) 
+
+### Scientific Organizing Committee (SOC) 
+ 
+Nick Battaglia (Cornell) 
+
+Hsiao-Wen Chen (University of Chicago) 
+
+Megan Donahue (Michigan State University) 
+
+Claude-André Faucher-Giguère (Northwestern) 
+
+Cameron Hummels (Caltech) 
+
+Selim Hotinli (Perimeter Institute) 
+
+Ian McCarthy (Liverpool John Moores University) 
+
+Daisuke Nagai (Yale) 
+
+Gwen Rudie (Carnegie Institution for Science) 
+
+Freeke van de Voort (Cardiff University) 
+
+Jessica Werk (University of Washington) 
+
+### Confirmed Speakers 
+
+Alexandra Amon (Princeton) 
+
+Boryana Hadzhiyska (UC Berkeley & Berkeley Lab) 
+
+Chuck Steidel (California Institute of Technology) 
+
+Emanuel Schaan (SLAC) 
+
+Irina Zhuravleva (University of Chicago)  
+
+Joop Schaye (Leiden University) 
+
+Jonathan Stern (Tel Aviv University)  
+
+Mark Voit (Michigan State University) 
+
+Peng Oh (UC Santa Barbara) 
+
+Sanskrti Das (Stanford) 
+
+Simone Ferraro (Berkeley Lab) 
+
+Stella Koch Ocker (California Institute of Technology) 
+
+William Coulton (Cambridge University) 
+
+Additional invited speakers will be added as they are confirmed. 
