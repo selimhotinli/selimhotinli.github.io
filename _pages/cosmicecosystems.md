@@ -5,7 +5,7 @@ permalink: /cosmicecosystems/
 author_profile: true
 ---
 
-<br/><img src='/images/cosmicecosystems' width="500">
+<br/><img src='/images/cosmicecosystems' width="1000">
 
 {% include base_path %}
 
