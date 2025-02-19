@@ -15,7 +15,7 @@ This conference seeks to bring together cosmologists and astrophysicists to fost
  
 The goal is to explore the complementarity of these data sets and how their alignment can provide new insights into the interconnected processes shaping cosmic environments, particularly through joint modelling and simulations of many phases of gas and feedback across different regimes. Attention will also be given to bridging the gap between how cosmologists and astronomers approach the CGM, either top-down large-scale and hot and virial phase, vs bottom-up, cooler phases, at smaller scales.
 
-Please register using: [*Click me!*](https://events.perimeterinstitute.ca/event/927/overview)
+Please register using: [*https://events.perimeterinstitute.ca/event/927/*](https://events.perimeterinstitute.ca/event/927/overview)
  
 ## Topics will include:
 
