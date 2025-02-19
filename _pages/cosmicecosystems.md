@@ -17,10 +17,10 @@ The goal is to explore the complementarity of these data sets and how their alig
  
 ## Topics will include:
 
-· Cosmic mass budget, including a census of where the baryons are.
-· Effect of baryons on dark matter structures on small and large scales.
-· Cosmic evolution of large-scale structures.
-· Bridging the gap between different probes.
+- Cosmic mass budget, including a census of where the baryons are.
+- Effect of baryons on dark matter structures on small and large scales.
+- Cosmic evolution of large-scale structures.
+- Bridging the gap between different probes.
 
 The conference will cover a range of themes that focus on delineating and connecting the different scales and phases of the CGM, with a clear emphasis on their links to cosmological themes. The below themes aim to build a coherent picture of the cosmic ecosystem by systematically linking scales and phases.  
 
@@ -40,10 +40,10 @@ Scope: This theme bridges the smallest scales of feedback, such as AGN and super
 
 ### Example Topics: 
 
-· Modeling small-scale feedback and its effects on matter power spectrum suppression.
-· Scaling laws between AGN/SNe energetics and LSS properties.
-· Feedback imprints on the thermal and kinetic Sunyaev-Zel’dovich effects and connections with weak lensing.
-· Observational tests: Connecting feedback models to SZ/X-ray cluster data and galaxy surveys. 
+- Modeling small-scale feedback and its effects on matter power spectrum suppression.
+- Scaling laws between AGN/SNe energetics and LSS properties.
+- Feedback imprints on the thermal and kinetic Sunyaev-Zel’dovich effects and connections with weak lensing.
+- Observational tests: Connecting feedback models to SZ/X-ray cluster data and galaxy surveys. 
  
 ## 2. Linking Hot Gas to Cold Gas: Baryon Cycling in the Cosmic Ecosystem 
 
@@ -51,10 +51,10 @@ Scope: This theme connects the hot ionized gas (e.g., in galaxy clusters and CGM
 
 Example Topics: 
 
-· Shock heating of cold gas to hot gas via AGN and galactic winds.
-· Cooling flows and condensation in the CGM and galaxy clusters.
-· Observational tracers: SZ and X-ray for hot gas, and CO and HI for cold gas.
-· Feedback-regulated star formation and its influence on galaxy evolution. 
+- Shock heating of cold gas to hot gas via AGN and galactic winds.
+- Cooling flows and condensation in the CGM and galaxy clusters.
+- Observational tracers: SZ and X-ray for hot gas, and CO and HI for cold gas.
+- Feedback-regulated star formation and its influence on galaxy evolution. 
 
 ## 3. From the Circumgalactic Medium to the Intergalactic Medium: Feedback's Reach Beyond Galaxies 
 
@@ -63,10 +63,10 @@ Scope: This theme examines how feedback-driven processes in the circumgalactic m
 
 Example Topics: 
 
-· Metal and energy enrichment of the IGM from CGM-driven feedback.
-· Outflows and winds: Connecting galactic feedback to the cosmic web.
-· Observables: Lyman-alpha Forest statistics and metal absorption lines.
-· Feedback's role in shaping the thermal history of the IGM. 
+- Metal and energy enrichment of the IGM from CGM-driven feedback.
+- Outflows and winds: Connecting galactic feedback to the cosmic web.
+- Observables: Lyman-alpha Forest statistics and metal absorption lines.
+- Feedback's role in shaping the thermal history of the IGM. 
 
 ## 4. Tying the Diffuse to the Dense: Connecting Gas Phases and The Role of Turbulence 
 
@@ -74,10 +74,10 @@ Scope: This theme focuses on the interplay between diffuse gas (e.g., ionized or
 
 Example Topics: 
 
-· Turbulence-driven mixing and cooling in diffuse and dense gas.
-· Cosmic ray heating and its role in regulating star-forming regions.
-· Feedback-driven redistribution of energy across scales and phases.
-· Theoretical and observational approaches to tracing these processes. 
+- Turbulence-driven mixing and cooling in diffuse and dense gas.
+- Cosmic ray heating and its role in regulating star-forming regions.
+- Feedback-driven redistribution of energy across scales and phases.
+- Theoretical and observational approaches to tracing these processes. 
 
 ## 5. Bridging the Present and the Past: Feedback's Role in Linking Cosmic History to Current Observables 
 
@@ -87,10 +87,10 @@ This theme connects feedback's influence on the cosmic ecosystem across time, fr
 
 Example Topics: 
 
-· Feedback in early structure formation: First galaxies and reionization-era IGM.
-· Evolution of feedback mechanisms with cosmic time (e.g., AGN vs. stellar feedback dominance).
-· Imprints of feedback history in current observables (e.g., SZ, X-ray, and FRBs).
-· Linking simulations across epochs: From early cosmic dawn to mature LSS.
+- Feedback in early structure formation: First galaxies and reionization-era IGM.
+- Evolution of feedback mechanisms with cosmic time (e.g., AGN vs. stellar feedback dominance).
+- Imprints of feedback history in current observables (e.g., SZ, X-ray, and FRBs).
+- Linking simulations across epochs: From early cosmic dawn to mature LSS.
  
 The time has never been more right to unify these fields, as advances in observation, theory and simulations are poised to open new paths to revealing the cosmos’ most profound mysteries.
  
