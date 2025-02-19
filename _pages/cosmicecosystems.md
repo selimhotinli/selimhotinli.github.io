@@ -40,10 +40,10 @@ Scope: This theme bridges the smallest scales of feedback, such as AGN and super
 
 ### Example Topics: 
 
-Modeling small-scale feedback and its effects on matter power spectrum suppression.
-Scaling laws between AGN/SNe energetics and LSS properties.
-Feedback imprints on the thermal and kinetic Sunyaev-Zel’dovich effects and connections with weak lensing.
-Observational tests: Connecting feedback models to SZ/X-ray cluster data and galaxy surveys. 
+· Modeling small-scale feedback and its effects on matter power spectrum suppression.
+· Scaling laws between AGN/SNe energetics and LSS properties.
+· Feedback imprints on the thermal and kinetic Sunyaev-Zel’dovich effects and connections with weak lensing.
+· Observational tests: Connecting feedback models to SZ/X-ray cluster data and galaxy surveys. 
  
 ## 2. Linking Hot Gas to Cold Gas: Baryon Cycling in the Cosmic Ecosystem 
 
