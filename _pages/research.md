@@ -40,8 +40,7 @@ Most recently, in [Hotinli et al.](https://arxiv.org/pdf/2506.21657), we develop
 <br/><img src='/images/Pgv_150_and_90_v6 (2).pdf' width="500">
 
 Galaxy–velocity cross-power spectra \(P_{gv}(k)\) using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars).  
-**Solid red lines** show model predictions with \(b_g = 2.2\), \(\fnl = 0\), and \(b_v = \{0.47, 0.39\}\) for \(\{90,150\}\) GHz.  
-This model is a good fit (\(\chi^2 = 8.5\) or \(8.2\) with \(N_{\rm dof} = 8\)) over the range of scales used in this paper (\(k \lesssim 0.018\ \mathrm{Mpc}^{-1}\), delimited by the grey band). The **dashed** and **dotted** lines correspond to model predictions with \(f_{\rm NL} = \pm 100\). The signal-to-noise ratio (SNR) is \(\{8.4, 10.3\}\) at \(\{90,150\}\) GHz. The **purple cross markers** show the estimated \(P_{gv}(k)\) obtained when omitting the \(\hat v_r\) mean-subtraction step in Eq.~\eqref{eq:hvr_ms}. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. From [Hotinli et al.](https://arxiv.org/pdf/2506.21657).
+**Solid red lines** show model predictions with \(b_g = 2.2\), \(\fnl = 0\), and \(b_v = \{0.47, 0.39\}\) for \(\{90,150\}\) GHz. This model is a good fit (\(\chi^2 = 8.5\) or \(8.2\) with \(N_{\rm dof} = 8\)) over the range of scales used in this paper (\(k \lesssim 0.018\ \mathrm{Mpc}^{-1}\), delimited by the grey band). The **dashed** and **dotted** lines correspond to model predictions with \(f_{\rm NL} = \pm 100\). The signal-to-noise ratio (SNR) is \(\{8.4, 10.3\}\) at \(\{90,150\}\) GHz. The **purple cross markers** show the estimated \(P_{gv}(k)\) obtained when omitting the \(\hat v_r\) mean-subtraction step in Eq.~\eqref{eq:hvr_ms}. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. From [Hotinli et al.](https://arxiv.org/pdf/2506.21657).
 
 
 Over the years I have helped define its scientific vision by identifying its most powerful early-Universe and late-time targets. 
@@ -49,6 +48,7 @@ Over the years I have helped define its scientific vision by identifying its mos
 These include smoking-gun tests of primordial non-Gaussianity and isocurvature:
 
 <br/><img src='/images/fig3.png' width="500">
+Forecasted error ellipses on \(f_{NL}\) and (\tau_{NL})\ at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis. From [Neha Anil Kumar et al.](https://arxiv.org/pdf/2205.03423)
 
 <br/><img src='/images/fig2.png' width="500">
 
