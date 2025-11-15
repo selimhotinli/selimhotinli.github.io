@@ -58,7 +58,7 @@ These include developing unique ***unbiased*** probes of ***electron gas distrib
 
 <br/><img src='/images/page_1_gal.jpg' width="1200">
 
-From [Neha Anil Kumar et al. 2509.18249](https://arxiv.org/abs/2509.18249) 
+From [Neha Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249) 
 
 Forecasted errors on the reconstruction of electron auto-correlation in three redshift bins of equal comoving width, ordered from lowest to highest z from left to right. The model predictions for the electron gas signal computed assuming the Battaglia ‘AGN’ model. All error bars assume CMB data from an SO-like telescope and DESI and LSST-like galaxy surveys.
 
@@ -66,29 +66,26 @@ These include smoking-gun tests of ***primordial non-Gaussianity and isocurvatur
 
 <br/><img src='/images/fig3.png' width="600">
 
-From [Neha Anil Kumar et al. 2205.03423](https://arxiv.org/abs/2205.03423) 
+From [Neha Anil Kumar et al. (2205.03423)](https://arxiv.org/abs/2205.03423) 
 
 Forecasted error ellipses on primordial non-Gaussianity signals at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis.
 
 <br/><img src='/images/fig2.png' width="600">
 
-From [Neha Anil Kumar et al. 2208.02829](https://arxiv.org/abs/2208.02829)
+From [Neha Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829)
 
 Forecasted error on the primordial isocurvature amplitude after marginalizing over bias parameters as a function of largest scales (Left) and galaxy density (Right) considered in the analysis. Baseline I (II) corresponds to an LSST (DESI)-like galaxy survey. 
 
 <br/><img src='/images/fig1.png' width="1200">
 
-From [Hotinli et al. 1908.08953](https://arxiv.org/abs/1908.08953)
+From [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953)
 
 The impact of changing various survey parameters relevant for, or related to, cosmological experiments.
 
 The kSZ tomography will also play a role in probing many fundemental signatures including ***neutrino masses*** [Avery J. Tishue et al. 2502.05260](https://arxiv.org/abs/2502.05260), ***dark-energy microphysics*** [Julius Aldoff et al. (2511.05653)](https://arxiv.org/abs/2511.05653),  ***parity violation*** [Eleonora Vanzan et al. (2311.18121)](https://arxiv.org/abs/2311.18121), eternal inflation [P. Zhang and M. C. Johnson (1501.00511)](https://arxiv.org/abs/1501.00511) and ***modified gravity*** [Z. Pan, M. C. Johnson (1906.04208)](https://arxiv.org/abs/1906.04208).
 
 
-
-### Probing Helium reionization with CMB x LSS
-
-In addition to probing large-scale deviations from LCDM, the reconstruction program can contribute significantly to the characterisation of both hydrogen (Hotinli and Johnson 2020) and helium (Hotinli et al 2022) reionization (image below).
+Among other things, the kSZ tomography and CMB secondaries program can also contribute significantly to the characterisation of both hydrogen and helium reionization.
 
 <br/><img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' width="500">
 
