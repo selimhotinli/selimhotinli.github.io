@@ -50,9 +50,13 @@ The kSZ effect also offers powerful astrophysical insight into the ***distributi
 
 Over the years I have helped define its scientific vision by identifying its most powerful early-Universe and late-time targets. 
 
-These include developing unique unbiased probes of ***electron gas distribution***:
+These include developing unique ***unbiased*** probes of ***electron gas distribution***:
 
+<br/><img src='/images/page_1_gal.jpg' width="1200">
 
+From [Neha Anil Kumar et al. 2509.18249](https://arxiv.org/abs/2509.18249) 
+
+Forecasted errors on the reconstruction of electron auto-correlation in three redshift bins of equal comoving width, ordered from lowest to highest z from left to right. The model predictions for the electron gas signal computed assuming the Battaglia ‘AGN’ model. All error bars assume CMB data from an SO-like telescope and DESI and LSST-like galaxy surveys.
 
 These include smoking-gun tests of ***primordial non-Gaussianity and isocurvature***:
 
