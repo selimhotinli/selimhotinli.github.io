@@ -39,10 +39,9 @@ Most recently, in [Hotinli et al.](https://arxiv.org/abs/2506.21657), we develop
 
 <br/><img src='/images/page_1.jpg' width="500">
 
-From [Hotinli et al.](https://arxiv.org/pdf/2506.21657).
+From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657)
 
-Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars).  
-**Solid red lines** show model predictions with \(b_g = 2.2\), \(\fnl = 0\), and \(b_v = \{0.47, 0.39\}\) for \(\{90,150\}\) GHz. This model is a good fit over the range of scales used in this paper, delimited by the grey band). The **dashed** and **dotted** lines correspond to model predictions with \(f_{\rm NL} = \pm 100\). The signal-to-noise ratio (SNR) is \(\{8.4, 10.3\}\) at \(\{90,150\}\) GHz. The **purple cross markers** show the estimated \(P_{gv}(k)\) obtained when omitting the \(\hat v_r\) mean-subtraction step in Eq.~\eqref{eq:hvr_ms}. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
+Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars). **Solid red lines** show model predictions with \(b_g = 2.2\), \(\fnl = 0\), and \(b_v = \{0.47, 0.39\}\) for \(\{90,150\}\) GHz. This model is a good fit over the range of scales used in this paper, delimited by the grey band). The **dashed** and **dotted** lines correspond to model predictions with \(f_{\rm NL} = \pm 100\). The signal-to-noise ratio (SNR) is \(\{8.4, 10.3\}\) at \(\{90,150\}\) GHz. The **purple cross markers** show the estimated \(P_{gv}(k)\) obtained when omitting the \(\hat v_r\) mean-subtraction step in Eq.~\eqref{eq:hvr_ms}. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
 
 Over the years I have helped define its scientific vision by identifying its most powerful early-Universe and late-time targets. 
 
