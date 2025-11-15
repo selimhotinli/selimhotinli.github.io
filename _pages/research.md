@@ -25,10 +25,10 @@ The kSZ effect directly measures the large-scale velocity field, providing a uni
 
 <div style="display:flex; gap:20px;">
   <video width="48%" controls>
-    <source src="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4" type="mp4">
+    <source src="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
   <video width="48%" controls>
-    <source src="/images/animation_only_maps_id=1_v4_full_cripped_Nov.mp4" type="mp4">
+    <source src="/images/animation_only_maps_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
 </div>
 
