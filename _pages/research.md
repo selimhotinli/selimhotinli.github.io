@@ -7,14 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Scientific programs involving joint-analyses of different tracers of large-scale structure (LSS) and CMB are increasingly gaining attention as they often increase the prospects to detect and characterise new signals by reducing systematics, cancelling cosmic variance and breaking degeneracies. 
-My research on these lines focuses in part on the reconstruction of large-scale cosmological fluctuations at different epochs of the Universe by using the CMB as a back-light; observing the scattering and gravitational lensing effects on the CMB by the intervening cosmological structure. My continuing work has demonstrated that this program will provide the most precise tests of fundamental physics and has the potential to open new and unique windows into unexplored epochs of structure formation, while not requiring new experiments other than those being built or proposed. 
+At the heart of my research is a program that combines large-scale structure (LSS) and cosmic microwave background (CMB) measurements, using the CMB as a cosmic backlight to study the scattering and lensing effects of dark-matter halos, filaments, galaxies, and diffuse ionized gas. This multi-tracer frontier has been evolving quickly, and my work over the past decade has played a role in shaping its trajectory.
 
-I am interested in the following research questions: 
-1. What were the dynamics and interactions in the early Universe? 
-2. What is the nature of dark matter and dark energy? 
-3. What are the fundamental principles that govern the major cosmological transitions in our Universe, such as hydrogen and helium reionization? 
-4. How can we increase the prospects to learn fundamental physics and astrophysics from cosmological surveys? 
+I lead multiple collaborations and survey-analysis pipelines, but my central effort has been the development of a major science program built around measurements of the kinetic Sunyaev–Zel’dovich (kSZ) effect. This program is poised to transform CMB and LSS studies by unlocking unprecedented information across both cosmological and astrophysical scales. It will drive new discoveries and influence the design and use of future surveys, whose scientific impact will increasingly hinge on their contributions to multi-tracer analyses.
 
 ### Kinetic Sunyaev Zel'dovich tomography
 
