@@ -25,10 +25,10 @@ Though subtle in appearance, the kSZ is a unique and powerful probe of cosmic st
 The kSZ effect directly measures the large-scale velocity field, providing a unique probe of structure formation and matter distribution. When jointly analyzed with other tracers, it delivers effectively arbitrarily precise, cosmic-variance–free constraints on subtle departures in clustering, making it a leading method for uncovering primordial non-Gaussianity and related early-Universe signals.
 
 <div style="display:flex; gap:20px;">
-  <video width="15%" controls>
+  <video width="15%" autoplay muted playsinline loop>
     <source src="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
-  <video width="83%" controls>
+  <video width="83%" autoplay muted playsinline loop>
     <source src="/images/animation_only_maps_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
 </div>
