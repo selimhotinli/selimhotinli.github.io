@@ -19,6 +19,8 @@ I lead multiple collaborations and survey-analysis pipelines, but my central eff
 
 ### Kinetic Sunyaev Zel'dovich tomography
 
+The kSZ effect directly measures the large-scale velocity field, providing a unique probe of structure formation and matter distribution. When jointly analyzed with other tracers, it delivers effectively arbitrarily precise, cosmic-variance–free constraints on subtle departures in clustering, making it a leading method for uncovering primordial non-Gaussianity and related early-Universe signals.
+
 <div style="display:flex; gap:20px;">
   <video width="48%" controls>
     <source src="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4" type="mp4">
