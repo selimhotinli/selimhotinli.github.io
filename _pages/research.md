@@ -48,6 +48,7 @@ Over the years I have helped define its scientific vision by identifying its mos
 These include smoking-gun tests of primordial non-Gaussianity and isocurvature:
 
 <br/><img src='/images/fig3.png' width="500">
+
 Forecasted error ellipses on \(f_{NL}\) and \(tau_{NL}\) at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis. From [Neha Anil Kumar et al.](https://arxiv.org/pdf/2205.03423)
 
 <br/><img src='/images/fig2.png' width="500">
