@@ -41,29 +41,31 @@ Most recently, in [Hotinli et al.](https://arxiv.org/abs/2506.21657), we develop
 
 From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657)
 
-Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars). **Solid red lines** show model predictions with \(b_g = 2.2\), \(\fnl = 0\), and \(b_v = \{0.47, 0.39\}\) for \(\{90,150\}\) GHz. This model is a good fit over the range of scales used in this paper, delimited by the grey band). The **dashed** and **dotted** lines correspond to model predictions with \(f_{\rm NL} = \pm 100\). The signal-to-noise ratio (SNR) is \(\{8.4, 10.3\}\) at \(\{90,150\}\) GHz. The **purple cross markers** show the estimated \(P_{gv}(k)\) obtained when omitting the \(\hat v_r\) mean-subtraction step in Eq.~\eqref{eq:hvr_ms}. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
+Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars). **Solid red lines** show model predictions in the absense of primordial non-Gaussianity. This model is a good fit over the range of scales used in this paper, delimited by the grey band. The **dashed** and **dotted** lines correspond to model predictions with primordial non-Gaussianity amplitude +/-100. The signal-to-noise ratio (SNR) is (8.4, 10.3) at (90, 150) GHz. The **purple cross markers** show the estimated galaxy-velocity cross-correlation obtained when omitting the mean-subtraction step described in the paper. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
 
 Over the years I have helped define its scientific vision by identifying its most powerful early-Universe and late-time targets. 
 
-These include smoking-gun tests of primordial non-Gaussianity and isocurvature:
+These include smoking-gun tests of ***primordial non-Gaussianity and isocurvature***:
 
-<br/><img src='/images/fig3.png' width="500">
+<br/><img src='/images/fig3.png' width="600">
 
 From [Neha Anil Kumar et al. 2205.03423](https://arxiv.org/abs/2205.03423) 
 
-Forecasted error ellipses on primordial non-Gaussianity signals \(f_{NL}\) and \(tau_{NL}\) at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis.
+Forecasted error ellipses on primordial non-Gaussianity signals at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis.
 
-<br/><img src='/images/fig2.png' width="500">
+<br/><img src='/images/fig2.png' width="600">
 
 From [Neha Anil Kumar et al. 2208.02829](https://arxiv.org/abs/2208.02829)
 
 Forecasted error on the primordial isocurvature amplitude after marginalizing over bias parameters as a function of largest scales (Left) and galaxy density (Right) considered in the analysis. Baseline I (II) corresponds to an LSST (DESI)-like galaxy survey. 
 
-<br/><img src='/images/fig1.png' width="500">
+<br/><img src='/images/fig1.png' width="600">
 
 From [Hotinli et al. 1908.08953](https://arxiv.org/abs/1908.08953)
 
+The impact of changing various survey parameters relevant for, or related to, cosmological experiments.
 
+The kSZ tomography will also play a role in the measurement of ***neutrino masses*** [Avery J. Tishue et al. 2502.05260](https://arxiv.org/abs/2502.05260), ***dark-energy microphysics*** [Julius Aldoff et al. (2511.05653)](https://arxiv.org/abs/2511.05653),  ***parity violation*** [Eleonora Vanzan et al. (2311.18121)](https://arxiv.org/abs/2311.18121).
 
 
 In the recent years I have also authored research papers which demonstrated that the kinetic Sunyaev Zel'dovich (kSZ) tomography (or radial-velocity reconstruction) (Cayuso et al 2020) will provide the most competitive constraints on primordial non-Gaussianity (Kumar et al 2022) and isocurvature (Hotinli et al 2019, Kumar et al 2022), smoking-gun signatures of inflationary scenarios or unknown components that may have been active during the early epoch of our Universe. In the former study, we have also demonstrated an opportunity to unambiguously probe unknown components in the early Universe by comparing different forms of higher-order statistics of the density fluctuations. These efforts are complementary to the core science goals of upcoming CMB experiments, such as measuring the effective number of relativistic species. My research has shown, for example, that the Figure of Merit (FoM) characterising the statistical information content of the joint analysis of large-scale galaxy clustering and velocity fields (latter reconstructed from measurements of the kSZ effect) with Simons Observatory and DESI data by 2026 can be greater by a factor of over an order-of-magnitude compared to considering DESI galaxy clustering in isolation. After the first year data release of LSST, this difference could reach over two orders of magnitude compared to considering LSST in isolation.
