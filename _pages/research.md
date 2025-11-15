@@ -38,12 +38,12 @@ Animation shows the contribution of the kSZ effect to the CMB temperature maps.
 Most recently, in [Hotinli et al.](https://arxiv.org/abs/2506.21657), we developed the [kszx](https://kszx.readthedocs.io/en/latest/) framework, enabling the kSZ effect to be combined with galaxy data to measure long-wavelength cosmological modes and small-scale electron distributions at the highest precision to date. This work establishes the method, introduces rigorous covariance-simulation techniques for accurate uncertainty quantification, detects the signal at high significance (at signal-to-noise ~12), an obtains the strongest kSZ-based bounds on primordial non-Gaussianity. 
 
 
-<div style="display: flex; gap: 10px;">
-  <img src="/images/page_1.jpg" width="58%">
-  <img src="/images/page_1_fnl.jpg" width="38%">
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="/images/page_1.jpg" width="58%; height: auto;">
+  <img src="/images/page_1_fnl.jpg" width="38%; height: auto;">
 </div>
 
-From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657)
+From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657).
 
 Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars). **Solid red lines** show model predictions in the absense of primordial non-Gaussianity. This model is a good fit over the range of scales used in this paper, delimited by the grey band. The **dashed** and **dotted** lines correspond to model predictions with primordial non-Gaussianity amplitude +/-100. The signal-to-noise ratio (SNR) is (8.4, 10.3) at (90, 150) GHz. The **purple cross markers** show the estimated galaxy-velocity cross-correlation obtained when omitting the mean-subtraction step described in the paper. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
 
@@ -58,7 +58,7 @@ These include developing unique ***unbiased*** probes of ***electron gas distrib
 
 <br/><img src='/images/page_1_gal.jpg' width="1200">
 
-From [Neha Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249) 
+From [Neha Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249).
 
 Forecasted errors on the reconstruction of electron auto-correlation in three redshift bins of equal comoving width, ordered from lowest to highest z from left to right. The model predictions for the electron gas signal computed assuming the Battaglia ‘AGN’ model. All error bars assume CMB data from an SO-like telescope and DESI and LSST-like galaxy surveys.
 
@@ -66,19 +66,19 @@ These include smoking-gun tests of ***primordial non-Gaussianity and isocurvatur
 
 <br/><img src='/images/fig3.png' width="600">
 
-From [Neha Anil Kumar et al. (2205.03423)](https://arxiv.org/abs/2205.03423) 
+From [Neha Anil Kumar et al. (2205.03423)](https://arxiv.org/abs/2205.03423).
 
 Forecasted error ellipses on primordial non-Gaussianity signals at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis.
 
 <br/><img src='/images/fig2.png' width="600">
 
-From [Neha Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829)
+From [Neha Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829).
 
 Forecasted error on the primordial isocurvature amplitude after marginalizing over bias parameters as a function of largest scales (Left) and galaxy density (Right) considered in the analysis. Baseline I (II) corresponds to an LSST (DESI)-like galaxy survey. 
 
 <br/><img src='/images/fig1.png' width="1200">
 
-From [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953)
+From [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953).
 
 The impact of changing various survey parameters relevant for, or related to, cosmological experiments.
 
