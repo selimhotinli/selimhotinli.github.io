@@ -19,6 +19,15 @@ I lead multiple collaborations and survey-analysis pipelines, but my central eff
 
 ### Kinetic Sunyaev Zel'dovich tomography
 
+<div style="display:flex; gap:20px;">
+  <video width="48%" controls>
+    <source src="video1.mp4" type="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4">
+  </video>
+  <video width="48%" controls>
+    <source src="video2.mp4" type="/animation_only_maps_id=1_v4_full_cripped_Nov.mp4">
+  </video>
+</div>
+
 In the recent years I have authored research papers which demonstrated that the kinetic Sunyaev Zel'dovich (kSZ) tomography (or radial-velocity reconstruction) (Cayuso et al 2020) will provide the most competitive constraints on primordial non-Gaussianity (Kumar et al 2022) and isocurvature (Hotinli et al 2019, Kumar et al 2022), smoking-gun signatures of inflationary scenarios or unknown components that may have been active during the early epoch of our Universe. In the former study, we have also demonstrated an opportunity to unambiguously probe unknown components in the early Universe by comparing different forms of higher-order statistics of the density fluctuations. These efforts are complementary to the core science goals of upcoming CMB experiments, such as measuring the effective number of relativistic species. My research has shown, for example, that the Figure of Merit (FoM) characterising the statistical information content of the joint analysis of large-scale galaxy clustering and velocity fields (latter reconstructed from measurements of the kSZ effect) with Simons Observatory and DESI data by 2026 can be greater by a factor of over an order-of-magnitude compared to considering DESI galaxy clustering in isolation. After the first year data release of LSST, this difference could reach over two orders of magnitude compared to considering LSST in isolation.
 
 Kinetic Sunyaev Zel'dovich (kSZ) effect is a doppler effect due to CMB photons scattering off on energetic electrons in the large-scale structure that have some non-zero radial velocity. This effect is very significant and will dominate the small-scale observations of the black-body CMB in the upcoming decade. Below, you can see how this effects looks like from the websky simulation. It is   these small-scale distortions in the CMB intensity that we measure.
