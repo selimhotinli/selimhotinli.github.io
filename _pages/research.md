@@ -21,10 +21,10 @@ I lead multiple collaborations and survey-analysis pipelines, but my central eff
 
 <div style="display:flex; gap:20px;">
   <video width="48%" controls>
-    <source src="video1.mp4" type="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4">
+    <source src="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4" type="mp4">
   </video>
   <video width="48%" controls>
-    <source src="video2.mp4" type="/animation_only_maps_id=1_v4_full_cripped_Nov.mp4">
+    <source src="/images/animation_only_maps_id=1_v4_full_cripped_Nov.mp4" type="mp4">
   </video>
 </div>
 
