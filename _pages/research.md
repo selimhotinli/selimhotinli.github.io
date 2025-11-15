@@ -25,17 +25,17 @@ Though subtle in appearance, the kSZ is a unique and powerful probe of cosmic st
 The kSZ effect directly measures the large-scale velocity field, providing a unique probe of structure formation and matter distribution. When jointly analyzed with other tracers, it delivers effectively arbitrarily precise, cosmic-variance–free constraints on subtle departures in clustering, making it a leading method for uncovering primordial non-Gaussianity and related early-Universe signals.
 
 <div style="display:flex; gap:20px;">
-  <video width="15%" autoplay muted playsinline loop>
+  <video width="20%" autoplay muted playsinline loop>
     <source src="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
-  <video width="83%" autoplay muted playsinline loop>
+  <video width="78%" autoplay muted playsinline loop>
     <source src="/images/animation_only_maps_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
 </div>
 
 Animation shows the contribution of the kSZ effect to the CMB temperature maps. 
 
-Most recently, in [Hotinli et al.](https://arxiv.org/pdf/2506.21657), we developed the [kszx](https://kszx.readthedocs.io/en/latest/) framework, enabling the kSZ effect to be combined with galaxy data to measure long-wavelength cosmological modes and small-scale electron distributions at the highest precision to date. This work establishes the method, introduces rigorous covariance-simulation techniques for accurate uncertainty quantification, detects the signal at high significance (at signal-to-noise ~12), an obtains the strongest kSZ-based bounds on primordial non-Gaussianity. 
+Most recently, in [Hotinli et al.](https://arxiv.org/abs/2506.21657), we developed the [kszx](https://kszx.readthedocs.io/en/latest/) framework, enabling the kSZ effect to be combined with galaxy data to measure long-wavelength cosmological modes and small-scale electron distributions at the highest precision to date. This work establishes the method, introduces rigorous covariance-simulation techniques for accurate uncertainty quantification, detects the signal at high significance (at signal-to-noise ~12), an obtains the strongest kSZ-based bounds on primordial non-Gaussianity. 
 
 <br/><img src='/images/Pgv_150_and_90_v6 (2).pdf' width="500">
 
@@ -49,9 +49,13 @@ These include smoking-gun tests of primordial non-Gaussianity and isocurvature:
 
 <br/><img src='/images/fig3.png' width="500">
 
-Forecasted error ellipses on \(f_{NL}\) and \(tau_{NL}\) at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis. From [Neha Anil Kumar et al.](https://arxiv.org/pdf/2205.03423)
+From [Neha Anil Kumar et al. 2205.03423](https://arxiv.org/abs/2205.03423) 
+Forecasted error ellipses on primordial non-Gaussianity signals \(f_{NL}\) and \(tau_{NL}\) at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis.
 
 <br/><img src='/images/fig2.png' width="500">
+
+From [Neha Anil Kumar et al. 2208.02829](https://arxiv.org/abs/2208.02829)
+Forecasted error on the primordial isocurvature amplitude after marginalizing over bias parameters as a function of largest scales (Left) and galaxy density (Right) considered in the analysis. Baseline I (II) corresponds to an LSST (DESI)-like galaxy survey. 
 
 <br/><img src='/images/fig1.png' width="500">
 
