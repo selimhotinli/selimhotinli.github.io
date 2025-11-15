@@ -37,7 +37,11 @@ Animation shows the contribution of the kSZ effect to the CMB temperature maps.
 
 Most recently, in [Hotinli et al.](https://arxiv.org/abs/2506.21657), we developed the [kszx](https://kszx.readthedocs.io/en/latest/) framework, enabling the kSZ effect to be combined with galaxy data to measure long-wavelength cosmological modes and small-scale electron distributions at the highest precision to date. This work establishes the method, introduces rigorous covariance-simulation techniques for accurate uncertainty quantification, detects the signal at high significance (at signal-to-noise ~12), an obtains the strongest kSZ-based bounds on primordial non-Gaussianity. 
 
-<br/><img src='/images/page_1.jpg' width="500">
+
+<div style="display: flex; gap: 10px;">
+  <img src="/images/page_1.jpg" width="58%">
+  <img src="/images/page_1_fnl.jpg" width="38%">
+</div>
 
 From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657)
 
