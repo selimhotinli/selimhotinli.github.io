@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<br/><img src='Secondary-Signals_560-Desktop (1).svg' width="500">
+<br/><img src='Secondary_Signals.jpg' width="500">
+Image by: Merrill Sherman/Quanta Magazine.
 
 At the heart of my research is a program that combines large-scale structure (LSS) and cosmic microwave background (CMB) measurements, using the CMB as a cosmic backlight to study the scattering and lensing effects of dark-matter halos, filaments, galaxies, and diffuse ionized gas. This multi-tracer frontier has been evolving quickly, and my work over the past decade has played a role in shaping its trajectory.
 
