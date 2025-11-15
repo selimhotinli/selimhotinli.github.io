@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<br/><img src='Secondary-Signals_560-Desktop (1).svg' width="500">
+
 At the heart of my research is a program that combines large-scale structure (LSS) and cosmic microwave background (CMB) measurements, using the CMB as a cosmic backlight to study the scattering and lensing effects of dark-matter halos, filaments, galaxies, and diffuse ionized gas. This multi-tracer frontier has been evolving quickly, and my work over the past decade has played a role in shaping its trajectory.
 
 I lead multiple collaborations and survey-analysis pipelines, but my central effort has been the development of a major science program built around measurements of the kinetic Sunyaev–Zel’dovich (kSZ) effect. This program is poised to transform CMB and LSS studies by unlocking unprecedented information across both cosmological and astrophysical scales. It will drive new discoveries and influence the design and use of future surveys, whose scientific impact will increasingly hinge on their contributions to multi-tracer analyses.
