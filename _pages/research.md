@@ -19,6 +19,8 @@ I lead multiple collaborations and survey-analysis pipelines, but my central eff
 
 ### Kinetic Sunyaev Zel'dovich tomography
 
+Though subtle in appearance, the kSZ is a unique and powerful probe of cosmic structure: nearly \textit{all} small-scale CMB blackbody fluctuations arise from the kSZ signal, surpassing even gravitational lensing at arcminute scales. 
+
 The kSZ effect directly measures the large-scale velocity field, providing a unique probe of structure formation and matter distribution. When jointly analyzed with other tracers, it delivers effectively arbitrarily precise, cosmic-variance–free constraints on subtle departures in clustering, making it a leading method for uncovering primordial non-Gaussianity and related early-Universe signals.
 
 <div style="display:flex; gap:20px;">
@@ -29,6 +31,12 @@ The kSZ effect directly measures the large-scale velocity field, providing a uni
     <source src="/images/animation_only_maps_id=1_v4_full_cripped_Nov.mp4" type="mp4">
   </video>
 </div>
+
+Animation shows the contribution of the kSZ effect to the CMB temperature maps. 
+
+Most recently, in [Hotinli et al.][(https://arxiv.org/pdf/2506.21657)], we developed the [kszx][https://kszx.readthedocs.io/en/latest/] framework, enabling the kSZ effect to be combined with galaxy data to measure long-wavelength cosmological modes and small-scale electron distributions at the highest precision to date. This work establishes the method, introduces rigorous covariance-simulation techniques for accurate uncertainty quantification, detects the signal at high significance (at signal-to-noise ~12), an obtains the strongest kSZ-based bounds on primordial non-Gaussianity. 
+
+
 
 In the recent years I have authored research papers which demonstrated that the kinetic Sunyaev Zel'dovich (kSZ) tomography (or radial-velocity reconstruction) (Cayuso et al 2020) will provide the most competitive constraints on primordial non-Gaussianity (Kumar et al 2022) and isocurvature (Hotinli et al 2019, Kumar et al 2022), smoking-gun signatures of inflationary scenarios or unknown components that may have been active during the early epoch of our Universe. In the former study, we have also demonstrated an opportunity to unambiguously probe unknown components in the early Universe by comparing different forms of higher-order statistics of the density fluctuations. These efforts are complementary to the core science goals of upcoming CMB experiments, such as measuring the effective number of relativistic species. My research has shown, for example, that the Figure of Merit (FoM) characterising the statistical information content of the joint analysis of large-scale galaxy clustering and velocity fields (latter reconstructed from measurements of the kSZ effect) with Simons Observatory and DESI data by 2026 can be greater by a factor of over an order-of-magnitude compared to considering DESI galaxy clustering in isolation. After the first year data release of LSST, this difference could reach over two orders of magnitude compared to considering LSST in isolation.
 
