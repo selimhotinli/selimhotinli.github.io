@@ -9,22 +9,22 @@ author_profile: true
 
 {% include base_path %}
 
-In the past three decades, one of the most transformative insights in cosmology has been the realisation that the formation and evolution processes of cosmic structures such as supermassive black-holes, galaxies and clusters are deeply interconnected with the vast cosmic web that underpins the Universe. These processes do not happen in isolation, but are part of a dynamic ecosystem where matter and energy flow across scales, driving the growth and transformation of cosmic environments. Understanding this complex system, in particular the circum-galactic medium (CGM), is not only key to deciphering how matter is cycled and redistributed through accretion via filaments and outflows from AGN and supernovae, but also crucial for unlocking the next generation of discoveries in areas such as dark matter, the behaviour of the cosmic web, the forces that shape cosmic evolution, and more.
- 
-This conference seeks to bring together cosmologists and astrophysicists to foster collaborative exploration of these interconnected cosmic ecosystems. By focusing on how structures interact with their environments across cosmic scales, this conference aims to catalyse groundbreaking discoveries in both astronomy and physics, providing fresh insights into the forces that govern the Universe. Special attention will be given to the joint analysis of large-scale structure and weak gravitational lensing data from surveys such as DESI, Euclid, LSST and Roman with CMB data from the Simons Observatory and CMB-S4, as well as how these can be integrated with observations of JWST, and existing and upcoming observations of X-ray emission, UV/X-ray absorption toward quasars, 21-cm emission, and FRBs.
- 
-The goal is to explore the complementarity of these data sets and how their alignment can provide new insights into the interconnected processes shaping cosmic environments, particularly through joint modelling and simulations of many phases of gas and feedback across different regimes. Attention will also be given to bridging the gap between how cosmologists and astronomers approach the CGM, either top-down large-scale and hot and virial phase, vs bottom-up, cooler phases, at smaller scales.
+Over the past three decades, one of the most transformative insights in cosmology has been the realization that the formation and evolution of cosmic structures—supermassive black holes, galaxies, and clusters—are deeply interconnected with the vast cosmic web that underpins the Universe. These processes do not occur in isolation but operate within a dynamic ecosystem where matter and energy flow across scales, driving the growth and transformation of cosmic environments. Understanding this complex system, especially the circumgalactic medium (CGM), is key to revealing how matter is cycled and redistributed through filamentary accretion and outflows from AGN and supernovae. It is also essential for advancing future discoveries in dark matter, the behavior of the cosmic web, the forces shaping cosmic evolution, and related areas.
 
-Please register using: [*https://events.perimeterinstitute.ca/event/927/*](https://events.perimeterinstitute.ca/event/927/overview)
+This conference brought together cosmologists and astrophysicists to explore these interconnected cosmic ecosystems. By examining how structures interact with their environments across scales, the meeting aimed to catalyze new discoveries in astronomy and physics and to provide fresh insights into the forces that govern the Universe. Special attention was given to joint analyses of large-scale structure and weak-lensing data from DESI, Euclid, LSST, and Roman with CMB data from the Simons Observatory and CMB-S4, as well as their integration with observations from JWST, existing and forthcoming X-ray and UV absorption measurements, 21-cm emission, and FRBs.
+
+The conference focused on the complementarity of these data sets and how their alignment can illuminate the multi-phase processes shaping cosmic environments, particularly through joint modeling and simulations across regimes. It also highlighted efforts to bridge the gap between cosmological and astronomical approaches to the CGM—top-down studies of large-scale, hot, virialized gas versus bottom-up investigations of cooler, small-scale phases.
  
-## Topics will include:
+## Topics included:
 
 - Cosmic mass budget, including a census of where the baryons are.
 - Effect of baryons on dark matter structures on small and large scales.
 - Cosmic evolution of large-scale structures.
 - Bridging the gap between different probes.
 
-The conference will cover a range of themes that focus on delineating and connecting the different scales and phases of the CGM, with a clear emphasis on their links to cosmological themes. The below themes aim to build a coherent picture of the cosmic ecosystem by systematically linking scales and phases.  
+The conference covered a range of themes that focus on delineating and connecting the different scales and phases of the CGM, with a clear emphasis on their links to cosmological themes.
+
+The below themes aimed to build a coherent picture of the cosmic ecosystem by systematically linking scales and phases.  
 
 - ### Small to large scales.
 - ### Hot gas to cold gas.
@@ -32,7 +32,7 @@ The conference will cover a range of themes that focus on delineating and connec
 - ### Diffuse to dense structures.
 - ### Past feedback processes to present-day observations. 
 
-Together, these helps provide a multi-faceted exploration of how baryonic physics connects all aspects of the universe and form a unified understanding of it across time and space.  
+Together, these themese help provide a multi-faceted exploration of how baryonic physics connects all aspects of the universe and form a unified understanding of it across time and space.  
 
 These themes are detailed further below. 
 
