@@ -93,7 +93,10 @@ Characterizing helium reionization is crucial for understanding galaxy formation
 
 In the recent years I have lead a program that demonstrated that joint analyses of CMB and large-scale structure data can detect signatures of helium reionization.
 
-
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="/images/helium1.png" width="45%; height: auto;">
+  <img src="/images/helium2.png" width="45%; height: auto;">
+</div>
 
 
 providing an independent observational probe of this key cosmic epoch and opening new possibilities to explore its connection to galaxy formation, quasar evolution, and
