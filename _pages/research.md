@@ -101,11 +101,11 @@ In the recent years I have lead a program that demonstrated that joint analyses 
 
 From [Hotinli et al. (2207.07660)](https://arxiv.org/abs/2207.07660). ***Left***: Fractional change in the electron fraction during helium reionization of the three models we consider here. Here, we include forecasts for the combination of VRO and CMB-S4, and MegaMapper and CMB-HD. ***Right***: The sensitivities on the helium reionization parameters from two survey combinations: VRO and CMB-S4 shown with blue contours, and MegaMapper and CMB-HD, shown with orange contours. 
 
-<br/><img src='/images/helium3.png' width="1200">
+<br/><img src='/images/helium3.png' width="700">
 
 From [Caliskan et al. (2312.00118)](https://arxiv.org/abs/2312.00118). Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from patchy optical depth reconstruction. Technique uses a four-point statistic combining CMB temperature, polarization, and galaxy clustering.
 
-<br/><img src='/images/helium4.png' width="1200">
+<br/><img src='/images/helium4.png' width="700">
 
 From [Anil Kumar et al. (2506.11188)](https://arxiv.org/abs/2506.11188). Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from projected kSZ. Technique uses a four-point statistic combining CMB temperature and galaxy clustering.
 
