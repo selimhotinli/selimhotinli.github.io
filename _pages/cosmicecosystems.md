@@ -144,7 +144,7 @@ The time has never been more right to unify these fields, as advances in observa
 - Hiranya Peiris (University of Cambridge) 
 - Andrew Pontzen (Durham University)  
 - Emanuel Schaan (SLAC)  
-- Joop Schaye (Leiden University)*  
+- Joop Schaye (Leiden University)
 - Chuck Steidel (California Institute of Technology)  
 - Jonathan Stern (Tel Aviv University)  
 - Mark Voit (Michigan State University)  
