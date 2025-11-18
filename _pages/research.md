@@ -95,8 +95,8 @@ Characterizing helium reionization is crucial for understanding galaxy formation
 In the recent years I have lead a program that demonstrated that joint analyses of CMB and large-scale structure data can detect signatures of helium reionization.
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="/images/helium1.png" width="52%; height: auto;">
-  <img src="/images/helium2.png" width="41%; height: auto;">
+  <img src="/images/helium1.png" width="39%; height: auto;">
+  <img src="/images/helium2.png" width="30.75%; height: auto;">
 </div>
 
 From [Hotinli et al. (2207.07660)](https://arxiv.org/abs/2207.07660). ***Left***: Fractional change in the electron fraction during helium reionization of the three models we consider here. Here, we include forecasts for the combination of VRO and CMB-S4, and MegaMapper and CMB-HD. ***Right***: The sensitivities on the helium reionization parameters from two survey combinations: VRO and CMB-S4 shown with blue contours, and MegaMapper and CMB-HD, shown with orange contours. 
