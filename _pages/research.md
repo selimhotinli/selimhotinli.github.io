@@ -87,15 +87,15 @@ The kSZ tomography will also play a role in probing many fundemental signatures 
 
 Among other things, the kSZ tomography and CMB secondaries program can also contribute significantly to the characterisation of both hydrogen and helium reionization.
 
-<br/><img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' width="500">
+<br/><img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' width="1000">
 
 Characterizing helium reionization is crucial for understanding galaxy formation, quasar evolution, and cosmology, and may even open a new window on big bang nucleosynthesis. Because photons from the first stars cannot fully ionize helium, helium reionization occurs only after a significant population of quasars emerges; its history therefore encodes quasar luminosities, accretion physics, clustering, variability, lifetimes, and the growth of supermassive black holes. Since nearly all helium becomes doubly ionized, the total change in ionization fraction also traces the primordial helium abundance—a sensitive probe of big bang nucleosynthesis. Improved constraints on helium reionization can tighten measurements of the primordial helium fraction, break degeneracies with the effective number of relativistic species, and shed light on weak interaction rates and the neutron lifetime. Given the observational challenges of helium emission-line measurements, complementary probes are especially valuable.
 
 In the recent years I have lead a program that demonstrated that joint analyses of CMB and large-scale structure data can detect signatures of helium reionization.
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="/images/helium1.png" width="51%; height: auto;">
-  <img src="/images/helium2.png" width="43%; height: auto;">
+  <img src="/images/helium1.png" width="52%; height: auto;">
+  <img src="/images/helium2.png" width="41%; height: auto;">
 </div>
 
 
