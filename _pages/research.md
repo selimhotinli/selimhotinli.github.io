@@ -114,17 +114,8 @@ From [Anil Kumar et al. (2506.11188)](https://arxiv.org/abs/2506.11188).
 
 Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from projected kSZ. Technique uses a four-point statistic combining CMB temperature and galaxy clustering.
 
-
 Measurements using these teqniue will provide an independent observational probe of this key cosmic epoch and opening new possibilities to explore its connection to galaxy formation, quasar evolution, and the growth of cosmic structures. 
 
-
-One of the main research programs I lead focuses on characterisation of both hydrogen (Hotinli and Johnson 2020) and helium reionization (Hotinli et al 2022)  from joint analyses of LSS and CMB data. In particular, characterising helium reionization has great significance for understanding galaxy formation, quasar activity and cosmology.  Since photons emitted by the first stars (sourcing the reionization of hydrogen) are not energetic enough to fully ionize helium, helium reionization occurs only after the emergence of a substantial number of quasars.
-
-As a result, the history of helium reionization strongly depends on the properties of quasars, such as their luminosity function, accretion mechanisms and other astrophysics, clustering, variability, lifetimes, as well as the general growth and evolution of super-massive black holes. Observational challenges posed by helium emission line measurements make additional probes extremely valuable. I anticipate a multitude of studies will follow my work, capitalising on the statistical power of cross-correlations between CMB and different high-redshift LSS probes. These results are extremely promising and will likely re-ignite the interest from the community for helium reionization. My efforts currently focus on advancing scientific programs involving characterisation of helium reionization with joint analyses of CMB and LSS including contributing to building up the science cases of the line-intensity signals, which will be a promising direction within this program, and transform this area into an active, evolving field of research. 
-
-<br/><img src='/images/selim-hotinli-imperial-research-fellowship-2_1669245332786_0.jpg' width="500">
-
-On this image: We now know that the hydrogen and helium fully ionizes in the Universe after the formation of first luminous objects. During this process, the ionization fraction (the fraction of free electrons) goes from zero to, say 1, for all the electrons in the hydrogen atom being ionized (kicked away of their proton). This happens soon after the first stars form. You may notice that this line does not end at one, however, which is because helium also ionizes, loosing its first electron around the same time as hydrogen. However the second electron in helium requires much more energy to ionize which only happens after sufficient numbers of much more luminous objects such as quasars, due to active galactic nuclei formation. As a result, the history of helium reionization strongly depends on the properties of quasars, such as their luminosity, accretion mechanisms and other very much unknown astrophysics, clustering, variability, lifetimes, as well as the general growth and evolution of super-massive black holes. In a recent work, I have shown for the first time that the joint analysis of the CMB and upcoming high-redshift galaxy surveys can indeed probe this epoch. (See arXiv:2207.07660)
 
 ### Other CMB signatures
 
