@@ -123,20 +123,31 @@ The time has never been more right to unify these fields, as advances in observa
 - Freeke van de Voort (Cardiff University) 
 - Jessica Werk (University of Washington) 
 
-## Confirmed Speakers 
+## Invited Speakers 
 
-- Alexandra Amon (Princeton) 
-- Boryana Hadzhiyska (UC Berkeley & Berkeley Lab) 
-- Chuck Steidel (California Institute of Technology) 
-- Emanuel Schaan (SLAC) 
-- Irina Zhuravleva (University of Chicago)  
-- Joop Schaye (Leiden University) 
-- Jonathan Stern (Tel Aviv University)  
-- Mark Voit (Michigan State University) 
+- Alexandra Amon (Princeton)  
+- Iryna Butsky (Stanford)  
+- William Coulton (Cambridge University)  
+- Sanskrti Das (Stanford)  
+- Simone Ferraro (Berkeley Lab)  
+- Nicholas J Frontiere (Argonne)  
+- Vera Gluscevic (USC)
+- Timothy Heckman (JHU)
+- Boryana Hadzhiyska (UC Berkeley & Berkeley Lab)*  
+- Stella Koch Ocker (California Institute of Technology)  
+- Khee-Gan Lee (IPMU)  
+- Nir Mandelker (Hebrew University Jerusalem) 
+- Chris Martin (Caltech) 
+- Daisuke Nagai (Yale) 
+- Andrew Newman (Carnegie Institution for Science) 
 - Peng Oh (UC Santa Barbara) 
-- Sanskrti Das (Stanford) 
-- Simone Ferraro (Berkeley Lab) 
-- Stella Koch Ocker (California Institute of Technology) 
-- William Coulton (Cambridge University) 
+- Hiranya Peiris (University of Cambridge) 
+- Andrew Pontzen (Durham University)  
+- Emanuel Schaan (SLAC)  
+- Joop Schaye (Leiden University)*  
+- Chuck Steidel (California Institute of Technology)  
+- Jonathan Stern (Tel Aviv University)  
+- Mark Voit (Michigan State University)  
+- Irina Zhuravleva (University of Chicago) 
 
-`Additional invited speakers will be added as they are confirmed.`
+
