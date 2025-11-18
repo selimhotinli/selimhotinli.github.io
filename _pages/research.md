@@ -46,7 +46,11 @@ Most recently, in [Hotinli et al.](https://arxiv.org/abs/2506.21657), we develop
 From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657). Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars). **Solid red lines** show model predictions in the absense of primordial non-Gaussianity. This model is a good fit over the range of scales used in this paper, delimited by the grey band. The **dashed** and **dotted** lines correspond to model predictions with primordial non-Gaussianity amplitude +/-100. The signal-to-noise ratio (SNR) is (8.4, 10.3) at (90, 150) GHz. The **purple cross markers** show the estimated galaxy-velocity cross-correlation obtained when omitting the mean-subtraction step described in the paper. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
 
 
+
+
 In the past year, in [Jordan Krywonos et al. (2408.05264)](https://arxiv.org/abs/2408.05264), we also used reconstruction based on data from Planck and unWISE surveys to rule out non-linear Gpc-scale voids, provide the tightest constraint on the intrinsic dipole (< 14 km/s at 68% confidence), rule out matter-radiation isocurvature as an explanation of discrepancies between the measured CMB and galaxy number count dipoles, and constrain the amplitude of local-type primordial non-Gaussianity (−220 < fNL < 136 at 68% confidence) and compensated isocurvature (−147 < ACIP < 281 at 68% confidence). This representative set of constraints on beyond-ΛCDM scenarios demonstrates the breadth of fundamental science possible with measurements of secondary CMB anisotropies.
+
+
 
 
 The kSZ effect also offers powerful astrophysical insight into the ***distribution of ionized gas*** in cosmic structures. It constrains electron-gas profiles, probes the physics of ***baryonic feedback***, and provides an independent test of hydrodynamical simulations. Recent kSZ measurements suggest that a ***large fraction of baryons lie at greater radii*** than predicted and that feedback varies with halo mass and epoch. Because feedback strongly shapes both astrophysics and cosmological inference, characterizing it is essential. My near-term research will test feedback models against high-resolution simulations and data, building on pipelines that already perform these analyses. Advancing these tools is a major focus of my work.
@@ -59,7 +63,9 @@ These include developing unique ***unbiased*** probes of ***electron gas distrib
 
 From [Neha Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249). Forecasted errors on the reconstruction of electron auto-correlation in three redshift bins of equal comoving width, ordered from lowest to highest z from left to right. The model predictions for the electron gas signal computed assuming the Battaglia ‘AGN’ model. All error bars assume CMB data from an SO-like telescope and DESI and LSST-like galaxy surveys.
 
-These include smoking-gun tests of ***primordial non-Gaussianity and isocurvature***:
+
+
+..and smoking-gun tests of ***primordial non-Gaussianity and isocurvature***:
 
 <br/><img src='/images/fig3.png' width="600">
 
@@ -73,7 +79,11 @@ From [Neha Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829). Fo
 
 From [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953). The impact of changing various survey parameters relevant for, or related to, cosmological experiments.
 
+
+
 The kSZ tomography will also play a role in probing many fundemental signatures including ***neutrino masses*** [Avery J. Tishue et al. 2502.05260](https://arxiv.org/abs/2502.05260), ***dark-energy microphysics*** [Julius Aldoff et al. (2511.05653)](https://arxiv.org/abs/2511.05653),  ***parity violation*** [Eleonora Vanzan et al. (2311.18121)](https://arxiv.org/abs/2311.18121), eternal inflation [P. Zhang and M. C. Johnson (1501.00511)](https://arxiv.org/abs/1501.00511) and ***modified gravity*** [Z. Pan, M. C. Johnson (1906.04208)](https://arxiv.org/abs/1906.04208).
+
+
 
 
 Among other things, the kSZ tomography and CMB secondaries program can also contribute significantly to the characterisation of both hydrogen and helium reionization.
@@ -99,7 +109,9 @@ From [Caliskan et al. (2312.00118)](https://arxiv.org/abs/2312.00118). Fractiona
 
 From [Anil Kumar et al. (2506.11188)](https://arxiv.org/abs/2506.11188). Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from projected kSZ. Technique uses a four-point statistic combining CMB temperature and galaxy clustering.
 
+
 Measurements using these teqniue will provide an independent observational probe of this key cosmic epoch and opening new possibilities to explore its connection to galaxy formation, quasar evolution, and the growth of cosmic structures. 
+
 
 
 ### Other CMB signatures
