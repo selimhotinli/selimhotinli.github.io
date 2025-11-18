@@ -89,7 +89,18 @@ Among other things, the kSZ tomography and CMB secondaries program can also cont
 
 <br/><img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' width="500">
 
-Characterising helium reionization has great significance for understanding galaxy formation, quasar activity and cosmology, and may open a new window on big bang nucleosynthesis.  Since photons emitted by the first stars (sourcing the reionization of hydrogen) are not energetic enough to fully ionize helium, helium reionization occurs only after the emergence of a substantial number of quasars. As a result, the history of helium reionization strongly depends on the properties of quasars, such as their luminosity function, accretion mechanisms and other astrophysics, clustering, variability, lifetimes, as well as the general growth and evolution of super-massive black holes. Since essentially all of the helium in the Universe is ultimately doubly ionized, the total change in the ionization fraction is also a measure of the primordial helium abundance—a sensitive probe of big bang nucleosynthesis. Furthermore, probing helium reionization can also improve our understanding of relativistic species through improving the primordial helium fraction measurement and breaking the degeneracy between the number of relativistic species and primordial helium fraction. As the primordial helium abundance depends on the weak interaction rates as well as the neutron lifetime, improving its measurement can also allow further valuable insights into our cosmological history. Observational challenges posed by helium emission line measurements make additional probes extremely valuable.
+Characterizing helium reionization is crucial for understanding galaxy formation, quasar evolution, and cosmology, and may even open a new window on big bang nucleosynthesis. Because photons from the first stars cannot fully ionize helium, helium reionization occurs only after a significant population of quasars emerges; its history therefore encodes quasar luminosities, accretion physics, clustering, variability, lifetimes, and the growth of supermassive black holes. Since nearly all helium becomes doubly ionized, the total change in ionization fraction also traces the primordial helium abundance—a sensitive probe of big bang nucleosynthesis. Improved constraints on helium reionization can tighten measurements of the primordial helium fraction, break degeneracies with the effective number of relativistic species, and shed light on weak interaction rates and the neutron lifetime. Given the observational challenges of helium emission-line measurements, complementary probes are especially valuable.
+
+In the recent years I have lead a program that demonstrated that joint analyses of CMB and large-scale structure data can detect signatures of helium reionization.
+
+
+
+
+providing an independent observational probe of this key cosmic epoch and opening new possibilities to explore its connection to galaxy formation, quasar evolution, and
+the growth of cosmic structures. Doing so, I aim to renew community interest in helium
+reionization—an epoch I argue to be underexplored—as an astrophysical frontier
+and begun laying the groundwork for upcoming cross-correlation studies and the
+first detection with near-future CMB and LSS data. I
 
 One of the main research programs I lead focuses on characterisation of both hydrogen (Hotinli and Johnson 2020) and helium reionization (Hotinli et al 2022)  from joint analyses of LSS and CMB data. In particular, characterising helium reionization has great significance for understanding galaxy formation, quasar activity and cosmology.  Since photons emitted by the first stars (sourcing the reionization of hydrogen) are not energetic enough to fully ionize helium, helium reionization occurs only after the emergence of a substantial number of quasars.
 
