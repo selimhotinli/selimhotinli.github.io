@@ -43,9 +43,8 @@ Most recently, in [Hotinli et al.](https://arxiv.org/abs/2506.21657), we develop
   <img src="/images/page_1_fnl.jpg" width="38%; height: auto;">
 </div>
 
-From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657).
+From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657). Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars). **Solid red lines** show model predictions in the absense of primordial non-Gaussianity. This model is a good fit over the range of scales used in this paper, delimited by the grey band. The **dashed** and **dotted** lines correspond to model predictions with primordial non-Gaussianity amplitude +/-100. The signal-to-noise ratio (SNR) is (8.4, 10.3) at (90, 150) GHz. The **purple cross markers** show the estimated galaxy-velocity cross-correlation obtained when omitting the mean-subtraction step described in the paper. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
 
-Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars). **Solid red lines** show model predictions in the absense of primordial non-Gaussianity. This model is a good fit over the range of scales used in this paper, delimited by the grey band. The **dashed** and **dotted** lines correspond to model predictions with primordial non-Gaussianity amplitude +/-100. The signal-to-noise ratio (SNR) is (8.4, 10.3) at (90, 150) GHz. The **purple cross markers** show the estimated galaxy-velocity cross-correlation obtained when omitting the mean-subtraction step described in the paper. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
 
 In the past year, in [Jordan Krywonos et al. (2408.05264)](https://arxiv.org/abs/2408.05264), we also used reconstruction based on data from Planck and unWISE surveys to rule out non-linear Gpc-scale voids, provide the tightest constraint on the intrinsic dipole (< 14 km/s at 68% confidence), rule out matter-radiation isocurvature as an explanation of discrepancies between the measured CMB and galaxy number count dipoles, and constrain the amplitude of local-type primordial non-Gaussianity (−220 < fNL < 136 at 68% confidence) and compensated isocurvature (−147 < ACIP < 281 at 68% confidence). This representative set of constraints on beyond-ΛCDM scenarios demonstrates the breadth of fundamental science possible with measurements of secondary CMB anisotropies.
 
@@ -58,29 +57,21 @@ These include developing unique ***unbiased*** probes of ***electron gas distrib
 
 <br/><img src='/images/page_1_gal.jpg' width="1200">
 
-From [Neha Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249).
-
-Forecasted errors on the reconstruction of electron auto-correlation in three redshift bins of equal comoving width, ordered from lowest to highest z from left to right. The model predictions for the electron gas signal computed assuming the Battaglia ‘AGN’ model. All error bars assume CMB data from an SO-like telescope and DESI and LSST-like galaxy surveys.
+From [Neha Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249). Forecasted errors on the reconstruction of electron auto-correlation in three redshift bins of equal comoving width, ordered from lowest to highest z from left to right. The model predictions for the electron gas signal computed assuming the Battaglia ‘AGN’ model. All error bars assume CMB data from an SO-like telescope and DESI and LSST-like galaxy surveys.
 
 These include smoking-gun tests of ***primordial non-Gaussianity and isocurvature***:
 
 <br/><img src='/images/fig3.png' width="600">
 
-From [Neha Anil Kumar et al. (2205.03423)](https://arxiv.org/abs/2205.03423).
-
-Forecasted error ellipses on primordial non-Gaussianity signals at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis.
+From [Neha Anil Kumar et al. (2205.03423)](https://arxiv.org/abs/2205.03423). Forecasted error ellipses on primordial non-Gaussianity signals at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis.
 
 <br/><img src='/images/fig2.png' width="600">
 
-From [Neha Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829).
-
-Forecasted error on the primordial isocurvature amplitude after marginalizing over bias parameters as a function of largest scales (Left) and galaxy density (Right) considered in the analysis. Baseline I (II) corresponds to an LSST (DESI)-like galaxy survey. 
+From [Neha Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829). Forecasted error on the primordial isocurvature amplitude after marginalizing over bias parameters as a function of largest scales (Left) and galaxy density (Right) considered in the analysis. Baseline I (II) corresponds to an LSST (DESI)-like galaxy survey. 
 
 <br/><img src='/images/fig1.png' width="1200">
 
-From [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953).
-
-The impact of changing various survey parameters relevant for, or related to, cosmological experiments.
+From [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953). The impact of changing various survey parameters relevant for, or related to, cosmological experiments.
 
 The kSZ tomography will also play a role in probing many fundemental signatures including ***neutrino masses*** [Avery J. Tishue et al. 2502.05260](https://arxiv.org/abs/2502.05260), ***dark-energy microphysics*** [Julius Aldoff et al. (2511.05653)](https://arxiv.org/abs/2511.05653),  ***parity violation*** [Eleonora Vanzan et al. (2311.18121)](https://arxiv.org/abs/2311.18121), eternal inflation [P. Zhang and M. C. Johnson (1501.00511)](https://arxiv.org/abs/1501.00511) and ***modified gravity*** [Z. Pan, M. C. Johnson (1906.04208)](https://arxiv.org/abs/1906.04208).
 
@@ -98,21 +89,15 @@ In the recent years I have lead a program that demonstrated that joint analyses 
   <img src="/images/helium2.png" width="41%; height: auto;">
 </div>
 
-From [Hotinli et al. (2207.07660)](https://arxiv.org/abs/2207.07660).
-
-***Left***: Fractional change in the electron fraction during helium reionization of the three models we consider here. Here, we include forecasts for the combination of VRO and CMB-S4, and MegaMapper and CMB-HD. ***Right***: The sensitivities on the helium reionization parameters from two survey combinations: VRO and CMB-S4 shown with blue contours, and MegaMapper and CMB-HD, shown with orange contours. 
+From [Hotinli et al. (2207.07660)](https://arxiv.org/abs/2207.07660). ***Left***: Fractional change in the electron fraction during helium reionization of the three models we consider here. Here, we include forecasts for the combination of VRO and CMB-S4, and MegaMapper and CMB-HD. ***Right***: The sensitivities on the helium reionization parameters from two survey combinations: VRO and CMB-S4 shown with blue contours, and MegaMapper and CMB-HD, shown with orange contours. 
 
 <br/><img src='/images/helium3.png' width="1200">
 
-From [Caliskan et al. (2312.00118)](https://arxiv.org/abs/2312.00118).
-
-Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from patchy optical depth reconstruction. Technique uses a four-point statistic combining CMB temperature, polarization, and galaxy clustering.
+From [Caliskan et al. (2312.00118)](https://arxiv.org/abs/2312.00118). Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from patchy optical depth reconstruction. Technique uses a four-point statistic combining CMB temperature, polarization, and galaxy clustering.
 
 <br/><img src='/images/helium4.png' width="1200">
 
-From [Anil Kumar et al. (2506.11188)](https://arxiv.org/abs/2506.11188).
-
-Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from projected kSZ. Technique uses a four-point statistic combining CMB temperature and galaxy clustering.
+From [Anil Kumar et al. (2506.11188)](https://arxiv.org/abs/2506.11188). Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from projected kSZ. Technique uses a four-point statistic combining CMB temperature and galaxy clustering.
 
 Measurements using these teqniue will provide an independent observational probe of this key cosmic epoch and opening new possibilities to explore its connection to galaxy formation, quasar evolution, and the growth of cosmic structures. 
 
