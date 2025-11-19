@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-For the most up-to-date version of my CV (including my publications), click [here to download](https://github.com/selimhotinli/selimhotinli.github.io/blob/master/SelimCHotinli_CV_NOV1825.pdf)  <a href="https://github.com/selimhotinli/selimhotinli.github.io/blob/master/SelimCHotinli_CV_NOV1825.pdf" download>Download PDF</a>
+For the most up-to-date version of my CV (including my publications), click [here to download](https://github.com/selimhotinli/selimhotinli.github.io/blob/master/SelimCHotinli_CV_NOV1825.pdf)  <a href="SelimCHotinli_CV_NOV1825.pdf" download="SelimCHotinli_CV_NOV1825.pdf">
+  Download CV
+</a>
 
 My PhD thesis (2020) on new directions in cosmology and astrophysics can be found [here](https://inspirehep.net/files/a4d82f973a26c9cceca45fa5e960a26a)
 
