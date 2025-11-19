@@ -11,7 +11,8 @@ redirect_from:
 
 For the most up-to-date version of my CV (including my publications), click [here to download](https://github.com/selimhotinli/selimhotinli.github.io/blob/master/SelimCHotinli_CV_NOV1825.pdf)  
 
-<a href="SelimCHotinli_CV_NOV1825.pdf" download="SelimCHotinli_CV.pdf">
+
+<a href="https://selimhotinli.github.io/SelimCHotinli_CV_NOV1825.pdf" download="SelimCHotinli_CV.pdf">
   Download CV
 </a>
 
