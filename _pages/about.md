@@ -15,3 +15,7 @@ I am interested in understanding the origin, contents, and evolution of the Univ
 Previously I was the Horizon Postdoctoral Fellow at Johns Hopkins University, and before that, I was a PhD student at Imperial College London where I was a [president's scholar](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships).
 
 You can find the list of my publications at my [inspire](https://inspirehep.net/authors/1635388?ui-citation-summary=true).
+
+Below is a recent invited talk where I describe some of my research topics. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qL0XGFCxA94?si=j6smCNgTToHKx2Vj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
