@@ -19,4 +19,6 @@ You can find the list of my publications at my [inspire](https://inspirehep.net/
 
 Below is a recent invited talk where I describe some of my research topics. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qL0XGFCxA94?si=j6smCNgTToHKx2Vj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/qL0XGFCxA94?si=j6smCNgTToHKx2Vj" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
