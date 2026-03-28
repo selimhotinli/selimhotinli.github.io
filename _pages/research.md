@@ -10,7 +10,7 @@ use_math: true
 
 My research program is organized around two observations in productive interplay: the striking simplicity of the early Universe and the rich complexity of the astrophysical processes that followed. The cosmic microwave background — the oldest light in the Universe — travels billions of years before reaching our telescopes, and along the way it is scattered, distorted, and imprinted by every structure it encounters. I exploit the CMB as a cosmic backlight, developing methods that use these imprints to simultaneously probe fundamental physics and the astrophysical processes that shape structure formation.
 
-<img src='/images/Secondary_Signals.jpg' class="img-wide" alt="Illustration of secondary CMB signals from scattering and lensing by large-scale structure">
+<img src='/images/Secondary_Signals.jpg' class="img-small" alt="Illustration of secondary CMB signals from scattering and lensing by large-scale structure">
 <p class="research-block__caption">Image: Merrill Sherman / Quanta Magazine.</p>
 
 <div class="research-nav">
@@ -88,23 +88,23 @@ In [Hotinli, Smith & Ferraro (2506.21657)](https://arxiv.org/abs/2506.21657), we
 
 In [Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249), we developed unbiased probes of the electron gas auto-correlation using kSZ tomography, with forecasts for the Simons Observatory combined with DESI and LSST-like surveys.
 
-<img src='/images/page_1_gal.jpg' class="img-full" alt="Forecasted electron auto-correlation reconstruction in three redshift bins">
+<img src='/images/page_1_gal.jpg' class="img-wide" alt="Forecasted electron auto-correlation reconstruction in three redshift bins">
 <p class="research-block__caption">Forecasted errors on electron auto-correlation reconstruction in three redshift bins, assuming the Battaglia AGN model. From <a href="https://arxiv.org/abs/2509.18249">Anil Kumar et al. (2509.18249)</a>.</p>
 
-<img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' class="img-medium" alt="Selim Hotinli presenting research on helium reionization">
+<img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' class="img-small" alt="Selim Hotinli presenting research on helium reionization">
 
 **Helium reionization.** Helium reionization is a distinct, later cosmic event driven by quasars. Its history encodes information about quasar evolution, the growth of supermassive black holes, and even the primordial helium abundance — a probe of big bang nucleosynthesis. I have led a program demonstrating that joint CMB and large-scale structure analyses can detect signatures of helium reionization, using multiple independent techniques.
 
-<div class="fig-row fig-row--half">
+<div class="fig-row fig-row--40-30">
   <img src="/images/helium1.png" alt="Helium reionization models showing fractional change in electron fraction">
   <img src="/images/helium2.png" alt="Forecasted sensitivities on helium reionization parameters">
 </div>
 <p class="research-block__caption">Left: helium reionization models. Right: forecasted sensitivities from VRO + CMB-S4 (blue) and MegaMapper + CMB-HD (orange). From <a href="https://arxiv.org/abs/2207.07660">Hotinli et al. (2207.07660)</a>.</p>
 
-<img src='/images/helium3.png' class="img-wide" alt="Fractional errors on reionization parameters from patchy optical depth reconstruction">
+<img src='/images/helium3.png' class="img-medium" alt="Fractional errors on reionization parameters from patchy optical depth reconstruction">
 <p class="research-block__caption">Fractional errors on helium and hydrogen reionization parameters from patchy optical depth reconstruction. From <a href="https://arxiv.org/abs/2312.00118">Caliskan et al. (2312.00118)</a>.</p>
 
-<img src='/images/helium4.png' class="img-wide" alt="Fractional errors on reionization parameters from projected kSZ">
+<img src='/images/helium4.png' class="img-medium" alt="Fractional errors on reionization parameters from projected kSZ">
 <p class="research-block__caption">Fractional errors from projected kSZ, combining CMB temperature and galaxy clustering. From <a href="https://arxiv.org/abs/2506.11188">Anil Kumar et al. (2506.11188)</a>.</p>
 
 These measurements provide an independent observational probe of this key cosmic epoch, opening new possibilities to explore its connection to galaxy formation and the growth of cosmic structures.
