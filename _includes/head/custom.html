@@ -210,6 +210,31 @@
     line-height: 1.6;
   }
 
+  /* CV page: timeline entries */
+  .cv-entry {
+    display: flex;
+    gap: 1.2em;
+    margin-bottom: 1.2em;
+    padding-bottom: 1.2em;
+    border-bottom: 1px solid #21262d;
+  }
+  .cv-entry__date {
+    flex: 0 0 110px;
+    font-size: 0.8em;
+    color: #8b949e;
+    padding-top: 0.15em;
+  }
+  .cv-entry__content {
+    flex: 1;
+  }
+  .cv-entry__content strong {
+    color: #e6edf3;
+  }
+  .cv-entry__detail {
+    font-size: 0.85em;
+    color: #8b949e;
+  }
+
   @media (max-width: 600px) {
     .nav-cards { flex-direction: column; }
     .hero-name { font-size: 1.6em; }
@@ -222,6 +247,8 @@
       max-width: 100%;
     }
     .fig-row { flex-direction: column; }
+    .cv-entry { flex-direction: column; gap: 0.3em; }
+    .cv-entry__date { flex: none; }
     .fig-row img, .fig-row video { max-width: 100% !important; flex: none !important; }
     .research-nav { gap: 0.4em; }
   }
