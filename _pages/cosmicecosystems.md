@@ -5,149 +5,94 @@ permalink: /cosmicecosystems/
 author_profile: true
 ---
 
-<br/><img src='/images/cosmicecosystems' width="1000">
-
 {% include base_path %}
 
-Over the past three decades, one of the most transformative insights in cosmology has been the realization that the formation and evolution of cosmic structures—supermassive black holes, galaxies, and clusters—are deeply interconnected with the vast cosmic web that underpins the Universe. These processes do not occur in isolation but operate within a dynamic ecosystem where matter and energy flow across scales, driving the growth and transformation of cosmic environments. Understanding this complex system, especially the circumgalactic medium (CGM), is key to revealing how matter is cycled and redistributed through filamentary accretion and outflows from AGN and supernovae. It is also essential for advancing future discoveries in dark matter, the behavior of the cosmic web, the forces shaping cosmic evolution, and related areas.
+<img src='/images/cosmicecosystems.png' class="img-full" alt="Cosmic Ecosystems conference banner" style="max-width: 820px;">
 
-This conference brought together cosmologists and astrophysicists to explore these interconnected cosmic ecosystems. By examining how structures interact with their environments across scales, the meeting aimed to catalyze new discoveries in astronomy and physics and to provide fresh insights into the forces that govern the Universe. Special attention was given to joint analyses of large-scale structure and weak-lensing data from DESI, Euclid, LSST, and Roman with CMB data from the Simons Observatory and CMB-S4, as well as their integration with observations from JWST, existing and forthcoming X-ray and UV absorption measurements, 21-cm emission, and FRBs.
+<p class="research-intro">I organized and chaired <em>Cosmic Ecosystems</em> at the Perimeter Institute for Theoretical Physics (2025), bringing together leading cosmologists and astrophysicists to explore how the formation and evolution of cosmic structures operate as a dynamic, interconnected ecosystem.</p>
 
-The conference focused on the complementarity of these data sets and how their alignment can illuminate the multi-phase processes shaping cosmic environments, particularly through joint modeling and simulations across regimes. It also highlighted efforts to bridge the gap between cosmological and astronomical approaches to the CGM—top-down studies of large-scale, hot, virialized gas versus bottom-up investigations of cooler, small-scale phases.
- 
-## Topics included:
+## Motivation
 
-- Cosmic mass budget, including a census of where the baryons are.
-- Effect of baryons on dark matter structures on small and large scales.
-- Cosmic evolution of large-scale structures.
-- Bridging the gap between different probes.
+A central insight in cosmology over the past three decades has been the realization that cosmic structures — supermassive black holes, galaxies, clusters, and the vast filamentary web connecting them — do not evolve in isolation. They operate within a dynamic ecosystem where matter and energy flow across scales, driving the growth and transformation of cosmic environments. Understanding this system, especially the circumgalactic medium (CGM) and its role in cycling and redistributing baryons, is essential both for astrophysics and for advancing precision cosmology.
 
-The conference covered a range of themes that focus on delineating and connecting the different scales and phases of the CGM, with a clear emphasis on their links to cosmological themes.
+I organized *Cosmic Ecosystems* to bring together communities that approach these questions from different directions: cosmologists studying large-scale, hot, virialized gas from the top down, and astrophysicists investigating cooler, small-scale phases from the bottom up. The conference focused on how combining data from DESI, Euclid, LSST, and Roman with CMB measurements from the Simons Observatory and CMB-S4 — alongside observations from JWST, X-ray and UV absorption measurements, 21-cm emission, and FRBs — can illuminate how matter and energy flow between different gas phases and scales. Invited speakers included leaders in observational and theoretical astrophysics from Princeton, Caltech, Cambridge, Yale, Stanford, Chicago, and other major centers.
 
-The below themes aimed to build a coherent picture of the cosmic ecosystem by systematically linking scales and phases.  
+## Conference Themes
 
-- Small to large scales.
-- Hot gas to cold gas.
-- Galactic to intergalactic scales.
-- Diffuse to dense structures.
-- Past feedback processes to present-day observations. 
+The program was built around five themes linking scales, phases, and epochs into a coherent picture of the cosmic ecosystem.
 
-Together, these themese help provide a multi-faceted exploration of how baryonic physics connects all aspects of the universe and form a unified understanding of it across time and space.  
+**1. From subgrid feedback to cosmic large-scale structure.** How do AGN jets, supernovae, and turbulence on the smallest scales propagate through simulations to shape the baryonic distribution and clustering on cosmological scales? Topics included matter power spectrum suppression, AGN/SNe-LSS scaling laws, and feedback imprints on the thermal and kinetic SZ effects.
 
-These themes are detailed further below. 
+**2. Baryon cycling: linking hot gas to cold gas.** How do feedback processes mediate phase transitions between the hot ionized gas in clusters and the CGM, and the cold neutral and molecular gas that fuels star formation? Topics included shock heating, cooling flows, condensation, and feedback-regulated star formation.
 
-### 1. Connecting the Smallest to the Largest: From Subgrid Feedback Physics to Cosmic Large-Scale Structure 
+**3. From the circumgalactic to the intergalactic medium.** How do feedback-driven outflows extend beyond galaxies into the cosmic web, redistributing metals and energy into the IGM? Topics included metal enrichment, galactic winds, Lyman-alpha forest statistics, and the thermal history of the IGM.
 
-Scope: This theme bridges the smallest scales of feedback, such as AGN and supernovae (SNe), with their impact on the large-scale structure (LSS) of the universe. It explores how microphysics (e.g., jets, winds, and turbulence) propagates through simulations and influences the baryonic distribution and clustering on cosmological scales. 
+**4. Connecting the diffuse to the dense.** How do energy transfer, turbulence, and cosmic ray interactions bridge the vastly different density and temperature regimes of diffuse and compact gas?
 
-Example Topics: 
+**5. Bridging cosmic history to present-day observables.** How do feedback processes evolve from the reionization era to the present, and what imprints do they leave in observables such as the SZ effect, Lyman-alpha forest, and FRBs?
 
-- Modeling small-scale feedback and its effects on matter power spectrum suppression.
-- Scaling laws between AGN/SNe energetics and LSS properties.
-- Feedback imprints on the thermal and kinetic Sunyaev-Zel’dovich effects and connections with weak lensing.
-- Observational tests: Connecting feedback models to SZ/X-ray cluster data and galaxy surveys. 
- 
-### 2. Linking Hot Gas to Cold Gas: Baryon Cycling in the Cosmic Ecosystem 
+## Committees and Invited Speakers
 
-Scope: This theme connects the hot ionized gas (e.g., in galaxy clusters and CGM) to cold neutral/molecular gas (e.g., in star-forming regions). It investigates how feedback processes mediate phase transitions, driving the baryon cycle between these reservoirs. 
+<div class="research-section research-section--flush">
 
-Example Topics: 
+### Organizing Committee (LOC)
 
-- Shock heating of cold gas to hot gas via AGN and galactic winds.
-- Cooling flows and condensation in the CGM and galaxy clusters.
-- Observational tracers: SZ and X-ray for hot gas, and CO and HI for cold gas.
-- Feedback-regulated star formation and its influence on galaxy evolution. 
+<div class="speaker-grid" markdown="0">
+  <span>Selim Hotinli (Perimeter Institute)</span>
+  <span>Neal Dalal (Perimeter Institute)</span>
+  <span>Mike Hudson (University of Waterloo)</span>
+  <span>Matt Johnson (Perimeter Institute)</span>
+  <span>Katie Mack (Perimeter Institute)</span>
+  <span>Brian McNamara (University of Waterloo)</span>
+  <span>Arielle Phillips (Notre Dame / Simons Emmy Noether Fellow, Perimeter)</span>
+  <span>Kendrick Smith (Perimeter Institute)</span>
+</div>
 
-### 3. From the Circumgalactic Medium to the Intergalactic Medium: Feedback's Reach Beyond Galaxies 
+### Scientific Organizing Committee (SOC)
 
-Scope: This theme examines how feedback-driven processes in the circumgalactic medium (CGM) extend into the intergalactic medium (IGM). It focuses on the transition from galaxy-scale to cosmic web-scale interactions, highlighting turbulence, outflows, and the redistribution of metals and energy. 
+<div class="speaker-grid" markdown="0">
+  <span>Nick Battaglia (Cornell)</span>
+  <span>Hsiao-Wen Chen (University of Chicago)</span>
+  <span>Megan Donahue (Michigan State)</span>
+  <span>Claude-André Faucher-Giguère (Northwestern)</span>
+  <span>Cameron Hummels (Caltech)</span>
+  <span>Selim Hotinli (Perimeter Institute)</span>
+  <span>Ian McCarthy (Liverpool John Moores)</span>
+  <span>Daisuke Nagai (Yale)</span>
+  <span>Gwen Rudie (Carnegie Observatories)</span>
+  <span>Freeke van de Voort (Cardiff)</span>
+  <span>Jessica Werk (University of Washington)</span>
+</div>
 
+### Invited Speakers
 
-Example Topics: 
+<div class="speaker-grid" markdown="0">
+  <span>Alexandra Amon (Princeton)</span>
+  <span>Iryna Butsky (Stanford)</span>
+  <span>William Coulton (Cambridge)</span>
+  <span>Sanskrti Das (Stanford)</span>
+  <span>Simone Ferraro (Berkeley Lab)</span>
+  <span>Nicholas Frontiere (Argonne)</span>
+  <span>Vera Gluscevic (USC)</span>
+  <span>Boryana Hadzhiyska (UC Berkeley & Berkeley Lab)</span>
+  <span>Timothy Heckman (JHU)</span>
+  <span>Stella Koch Ocker (Caltech)</span>
+  <span>Khee-Gan Lee (IPMU)</span>
+  <span>Nir Mandelker (Hebrew University)</span>
+  <span>Chris Martin (Caltech)</span>
+  <span>Daisuke Nagai (Yale)</span>
+  <span>Andrew Newman (Carnegie Observatories)</span>
+  <span>Peng Oh (UCSB)</span>
+  <span>Hiranya Peiris (Cambridge)</span>
+  <span>Andrew Pontzen (Durham)</span>
+  <span>Emanuel Schaan (SLAC)</span>
+  <span>Joop Schaye (Leiden)</span>
+  <span>Chuck Steidel (Caltech)</span>
+  <span>Jonathan Stern (Tel Aviv)</span>
+  <span>Mark Voit (Michigan State)</span>
+  <span>Irina Zhuravleva (University of Chicago)</span>
+</div>
 
-- Metal and energy enrichment of the IGM from CGM-driven feedback.
-- Outflows and winds: Connecting galactic feedback to the cosmic web.
-- Observables: Lyman-alpha Forest statistics and metal absorption lines.
-- Feedback's role in shaping the thermal history of the IGM. 
+</div>
 
-### 4. Tying the Diffuse to the Dense: Connecting Gas Phases and The Role of Turbulence 
-
-Scope: This theme focuses on the interplay between diffuse gas (e.g., ionized or neutral IGM) and compact structures (e.g., molecular clouds and galaxies), include discussions on turbulence and cosmic ray interactions. It highlights how energy transfer and phase transitions bridge vastly different density and temperature regimes. 
-
-Example Topics: 
-
-- Turbulence-driven mixing and cooling in diffuse and dense gas.
-- Cosmic ray heating and its role in regulating star-forming regions.
-- Feedback-driven redistribution of energy across scales and phases.
-- Theoretical and observational approaches to tracing these processes. 
-
-### 5. Bridging the Present and the Past: Feedback's Role in Linking Cosmic History to Current Observables 
-
-Scope: 
-This theme connects feedback's influence on the cosmic ecosystem across time, from early epochs of structure formation to the present universe. It examines how feedback processes evolve with cosmic time and leave imprints observable today, such as in the Lyman-alpha Forest, SZ effect, and FRBs. 
-
-
-Example Topics: 
-
-- Feedback in early structure formation: First galaxies and reionization-era IGM.
-- Evolution of feedback mechanisms with cosmic time (e.g., AGN vs. stellar feedback dominance).
-- Imprints of feedback history in current observables (e.g., SZ, X-ray, and FRBs).
-- Linking simulations across epochs: From early cosmic dawn to mature LSS.
- 
-The time has never been more right to unify these fields, as advances in observation, theory and simulations are poised to open new paths to revealing the cosmos’ most profound mysteries.
- 
-::  ::  ::
-
-## Organizing Committee (LOC) 
- 
-- Selim Hotinli (Perimeter Institute) 
-- Neal Dalal (Perimeter Institute) 
-- Mike Hudson (University of Waterloo, Waterloo Centre for Astrophysics) 
-- Matt Johnson (Perimeter Institute) 
-- Katie Mack (Perimeter Institute) 
-- Brian McNamara (University of Waterloo, Waterloo Centre for Astrophysics) 
-- Arielle Phillips (University of Notre Dame / Simons Emmy Noether Fellow at Perimeter Institute) 
-- Kendrick Smith (Perimeter Institute) 
-
-## Scientific Organizing Committee (SOC) 
- 
-- Nick Battaglia (Cornell) 
-- Hsiao-Wen Chen (University of Chicago) 
-- Megan Donahue (Michigan State University) 
-- Claude-André Faucher-Giguère (Northwestern) 
-- Cameron Hummels (Caltech) 
-- Selim Hotinli (Perimeter Institute) 
-- Ian McCarthy (Liverpool John Moores University) 
-- Daisuke Nagai (Yale) 
-- Gwen Rudie (Carnegie Institution for Science) 
-- Freeke van de Voort (Cardiff University) 
-- Jessica Werk (University of Washington) 
-
-## Invited Speakers 
-
-- Alexandra Amon (Princeton)  
-- Iryna Butsky (Stanford)  
-- William Coulton (Cambridge University)  
-- Sanskrti Das (Stanford)  
-- Simone Ferraro (Berkeley Lab)  
-- Nicholas J Frontiere (Argonne)  
-- Vera Gluscevic (USC)
-- Timothy Heckman (JHU)
-- Boryana Hadzhiyska (UC Berkeley & Berkeley Lab)*  
-- Stella Koch Ocker (California Institute of Technology)  
-- Khee-Gan Lee (IPMU)  
-- Nir Mandelker (Hebrew University Jerusalem) 
-- Chris Martin (Caltech) 
-- Daisuke Nagai (Yale) 
-- Andrew Newman (Carnegie Institution for Science) 
-- Peng Oh (UC Santa Barbara) 
-- Hiranya Peiris (University of Cambridge) 
-- Andrew Pontzen (Durham University)  
-- Emanuel Schaan (SLAC)  
-- Joop Schaye (Leiden University)
-- Chuck Steidel (California Institute of Technology)  
-- Jonathan Stern (Tel Aviv University)  
-- Mark Voit (Michigan State University)  
-- Irina Zhuravleva (University of Chicago) 
-
-
+The meeting surfaced new opportunities for cross-community collaboration, particularly around joint modeling of the multi-phase CGM and analysis frameworks that connect upcoming survey data across wavelengths and scales.

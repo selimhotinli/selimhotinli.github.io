@@ -154,13 +154,13 @@
     border-radius: 4px;
   }
   .img-medium {
-    max-width: 600px;
+    max-width: 700px;
     width: 100%;
     height: auto;
     border-radius: 4px;
   }
   .img-small {
-    max-width: 500px;
+    max-width: 550px;
     width: 100%;
     height: auto;
     border-radius: 4px;
@@ -179,14 +179,11 @@
     border-radius: 4px;
     min-width: 0;
   }
-  .fig-row--videos { max-width: 700px; }
   .fig-row--videos video:first-child { width: 20%; }
   .fig-row--videos video:last-child { width: 78%; }
-  .fig-row--60-40 { max-width: 700px; }
   .fig-row--60-40 img:first-child { width: 52%; }
   .fig-row--60-40 img:last-child { width: 45%; }
   .fig-row--half img { width: calc(50% - 5px); }
-  .fig-row--40-30 { max-width: 750px; }
   .fig-row--40-30 img:first-child { width: 55%; }
   .fig-row--40-30 img:last-child { width: 42%; }
 
@@ -208,6 +205,26 @@
     font-style: italic;
     margin-bottom: 1.5em;
     line-height: 1.6;
+  }
+
+  /* Section variant: no top border */
+  .research-section--flush {
+    border-top: none;
+    margin-top: 1em;
+    padding-top: 0;
+  }
+
+  /* Cosmic Ecosystems: speaker grid */
+  .speaker-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.3em 1.5em;
+    margin-bottom: 1.5em;
+  }
+  .speaker-grid span {
+    font-size: 0.85em;
+    color: #8b949e;
+    padding: 0.25em 0;
   }
 
   /* CV page: timeline entries */
@@ -249,6 +266,7 @@
     .fig-row { flex-direction: column; }
     .cv-entry { flex-direction: column; gap: 0.3em; }
     .cv-entry__date { flex: none; }
+    .speaker-grid { grid-template-columns: 1fr; }
     .fig-row img, .fig-row video { max-width: 100% !important; flex: none !important; }
     .research-nav { gap: 0.4em; }
   }
