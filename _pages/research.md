@@ -31,7 +31,7 @@ My research program is organized around two observations in productive interplay
 
 The kSZ effect dominates small-scale CMB blackbody fluctuations, surpassing even gravitational lensing at arcminute scales. It directly measures the large-scale velocity field, probing structure formation and matter distribution. When combined with galaxy survey data, it attains effectively cosmic-variance-free sensitivity to departures in matter and galaxy clustering — making it a leading method for detecting primordial non-Gaussianity and related early-Universe signals.
 
-<div class="fig-row fig-row--videos">
+<div class="fig-row fig-row--videos" markdown="0">
   <video autoplay muted playsinline loop>
     <source src="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
@@ -43,7 +43,7 @@ The kSZ effect dominates small-scale CMB blackbody fluctuations, surpassing even
 
 In [Hotinli, Smith & Ferraro (2506.21657)](https://arxiv.org/abs/2506.21657), we developed the [kszx](https://kszx.readthedocs.io/en/latest/) framework, enabling the first three-dimensional kSZ velocity reconstruction using a photometric galaxy survey. Using ACT DR5 CMB maps cross-correlated with the DESI Legacy Imaging Surveys, we detected the signal at signal-to-noise ~12 and obtained the strongest kSZ-based bounds on primordial non-Gaussianity to date.
 
-<div class="fig-row fig-row--60-40">
+<div class="fig-row fig-row--60-40" markdown="0">
   <img src="/images/page_1.jpg" alt="Galaxy-velocity cross-power spectra from ACT and DESI at 90 and 150 GHz">
   <img src="/images/page_1_fnl.jpg" alt="Constraints on primordial non-Gaussianity from kSZ velocity reconstruction">
 </div>
@@ -65,7 +65,7 @@ In [Hotinli, Smith & Ferraro (2506.21657)](https://arxiv.org/abs/2506.21657), we
 
 **Compensated isocurvature perturbations.** These are primordial fluctuations in the relative baryon and dark matter density that leave the total matter density unchanged — making them nearly invisible to the CMB alone. Current constraints allow them to be hundreds of times larger than adiabatic perturbations, a surprisingly large gap in our knowledge. In [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953) and [Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829), we showed that kSZ tomography can improve these constraints by over two orders of magnitude. I have also explored complementary probes using the 21-cm signal during cosmic dawn in [Hotinli et al. (2106.11979)](https://arxiv.org/abs/2106.11979).
 
-<div class="fig-row fig-row--half">
+<div class="fig-row fig-row--half" markdown="0">
   <img src="/images/fig2.png" alt="Forecasted isocurvature amplitude constraints as a function of survey parameters">
   <img src="/images/fig1.png" alt="Impact of survey parameters on kSZ-based constraints">
 </div>
@@ -95,7 +95,7 @@ In [Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249), we develo
 
 **Helium reionization.** Helium reionization is a distinct, later cosmic event driven by quasars. Its history encodes information about quasar evolution, the growth of supermassive black holes, and even the primordial helium abundance — a probe of big bang nucleosynthesis. I have led a program demonstrating that joint CMB and large-scale structure analyses can detect signatures of helium reionization, using multiple independent techniques.
 
-<div class="fig-row fig-row--40-30">
+<div class="fig-row fig-row--40-30" markdown="0">
   <img src="/images/helium1.png" alt="Helium reionization models showing fractional change in electron fraction">
   <img src="/images/helium2.png" alt="Forecasted sensitivities on helium reionization parameters">
 </div>
