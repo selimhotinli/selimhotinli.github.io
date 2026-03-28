@@ -8,122 +8,157 @@ use_math: true
 
 {% include base_path %}
 
+My research program is organized around two observations in productive interplay: the striking simplicity of the early Universe and the rich complexity of the astrophysical processes that followed. The cosmic microwave background — the oldest light in the Universe — travels billions of years before reaching our telescopes, and along the way it is scattered, distorted, and imprinted by every structure it encounters. I exploit the CMB as a cosmic backlight, developing methods that use these imprints to simultaneously probe fundamental physics and the astrophysical processes that shape structure formation.
+
+<img src='/images/Secondary_Signals.jpg' class="img-wide" alt="Illustration of secondary CMB signals from scattering and lensing by large-scale structure">
+<p class="research-block__caption">Image: Merrill Sherman / Quanta Magazine.</p>
+
+<div class="research-nav">
+  <a href="#velocity">Velocity Reconstruction</a>
+  <a href="#initial-conditions">Initial Conditions</a>
+  <a href="#gas-feedback">Gas &amp; Feedback</a>
+  <a href="#neutrinos-de">Neutrinos &amp; Dark Energy</a>
+  <a href="#beyond-ksz">Beyond kSZ</a>
+  <a href="#tools">Sharpening the Tools</a>
+</div>
 
 
-At the heart of my research is a program that combines large-scale structure (LSS) and cosmic microwave background (CMB) measurements, using the CMB as a cosmic backlight to study the scattering and lensing effects of dark-matter halos, filaments, galaxies, and diffuse ionized gas. This multi-tracer frontier has been evolving quickly, and my work over the past decade has played a role in shaping its trajectory.
+<div id="velocity" class="research-section" markdown="1">
 
-<br/><img src='/images/Secondary_Signals.jpg' width="500">
+## How can we turn the CMB into a map of cosmic velocities?
 
-Image by: Merrill Sherman/Quanta Magazine.
+<p class="research-intro">As CMB photons pass through clouds of ionized gas, they receive tiny energy shifts from the bulk motion of the electrons — the kinetic Sunyaev-Zel'dovich effect. I have developed methods to invert this process: starting from the observed temperature shifts, reconstruct the three-dimensional velocity field of the Universe.</p>
 
-I lead multiple collaborations and survey-analysis pipelines, but my central effort has been the development of a major science program built around measurements of the kinetic Sunyaev–Zel’dovich (kSZ) effect, a doppler effect due to CMB photons scattering off on energetic electrons in the large-scale structure that have some non-zero radial velocity. This program is poised to transform CMB and LSS studies by unlocking unprecedented information across both cosmological and astrophysical scales. It will drive new discoveries and influence the design and use of future surveys, whose scientific impact will increasingly hinge on their contributions to multi-tracer analyses.
+The kSZ effect dominates small-scale CMB blackbody fluctuations, surpassing even gravitational lensing at arcminute scales. It directly measures the large-scale velocity field, probing structure formation and matter distribution. When combined with galaxy survey data, it attains effectively cosmic-variance-free sensitivity to departures in matter and galaxy clustering — making it a leading method for detecting primordial non-Gaussianity and related early-Universe signals.
 
-### Kinetic Sunyaev Zel'dovich tomography
-
-Though subtle in appearance, the kSZ is a unique and powerful probe of cosmic structure: nearly all small-scale CMB blackbody fluctuations arise from the kSZ signal, surpassing even gravitational lensing at arcminute scales. 
-
-The kSZ effect directly measures the large-scale velocity field, providing a unique probe of structure formation and matter distribution. When jointly analyzed with other tracers, it delivers effectively arbitrarily precise, cosmic-variance–free constraints on subtle departures in clustering, making it a leading method for uncovering primordial non-Gaussianity and related early-Universe signals.
-
-<div style="display:flex; gap:20px;">
-  <video width="20%" autoplay muted playsinline loop>
+<div class="fig-row fig-row--videos">
+  <video autoplay muted playsinline loop>
     <source src="/images/animation_only_cone_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
-  <video width="78%" autoplay muted playsinline loop>
+  <video autoplay muted playsinline loop>
     <source src="/images/animation_only_maps_id=1_v4_full_cripped_Nov.mp4" type="video/mp4">
   </video>
 </div>
+<p class="research-block__caption">Animation showing the contribution of the kSZ effect to CMB temperature maps as a function of redshift.</p>
 
-Animation shows the contribution of the kSZ effect to the CMB temperature maps. 
+In [Hotinli, Smith & Ferraro (2506.21657)](https://arxiv.org/abs/2506.21657), we developed the [kszx](https://kszx.readthedocs.io/en/latest/) framework, enabling the first three-dimensional kSZ velocity reconstruction using a photometric galaxy survey. Using ACT DR5 CMB maps cross-correlated with the DESI Legacy Imaging Surveys, we detected the signal at signal-to-noise ~12 and obtained the strongest kSZ-based bounds on primordial non-Gaussianity to date.
 
-Most recently, in [Hotinli et al.](https://arxiv.org/abs/2506.21657), we developed the [kszx](https://kszx.readthedocs.io/en/latest/) framework, enabling the kSZ effect to be combined with galaxy data to measure long-wavelength cosmological modes and small-scale electron distributions at the highest precision to date. This work establishes the method, introduces rigorous covariance-simulation techniques for accurate uncertainty quantification, detects the signal at high significance (at signal-to-noise ~12), an obtains the strongest kSZ-based bounds on primordial non-Gaussianity. 
+<div class="fig-row fig-row--60-40">
+  <img src="/images/page_1.jpg" alt="Galaxy-velocity cross-power spectra from ACT and DESI at 90 and 150 GHz">
+  <img src="/images/page_1_fnl.jpg" alt="Constraints on primordial non-Gaussianity from kSZ velocity reconstruction">
+</div>
+<p class="research-block__caption">Measured galaxy-velocity cross-spectra from ACT and DESI data compared with theoretical predictions. Agreement across two frequency channels confirms a robust kSZ detection. From <a href="https://arxiv.org/abs/2506.21657">Hotinli et al. (2506.21657)</a>.</p>
 
-
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="/images/page_1.jpg" width="58%; height: auto;">
-  <img src="/images/page_1_fnl.jpg" width="38%; height: auto;">
 </div>
 
-From [Hotinli et al. (2506.21657)](https://arxiv.org/abs/2506.21657). Galaxy–velocity cross-power spectra using the 90 GHz (top) and 150 GHz (bottom) CMB maps from ACT DR5 and the DESI Legacy Survey (black points with error bars). **Solid red lines** show model predictions in the absense of primordial non-Gaussianity. This model is a good fit over the range of scales used in this paper, delimited by the grey band. The **dashed** and **dotted** lines correspond to model predictions with primordial non-Gaussianity amplitude +/-100. The signal-to-noise ratio (SNR) is (8.4, 10.3) at (90, 150) GHz. The **purple cross markers** show the estimated galaxy-velocity cross-correlation obtained when omitting the mean-subtraction step described in the paper. The large difference between the black points and purple crosses indicates significant foreground contamination at 90 GHz, which is mitigated by the mean-subtraction step. 
 
+<div id="initial-conditions" class="research-section" markdown="1">
 
+## What do cosmic velocities reveal about the origin of structure?
 
+<p class="research-intro">The velocities of matter carry a remarkably clean record of the conditions set during the earliest moments — cleaner, in some regimes, than the density field itself. By combining kSZ velocity reconstruction with galaxy surveys, we can place powerful new constraints on primordial non-Gaussianity, isocurvature perturbations, and parity-violating signatures in the initial conditions.</p>
 
-In the past year, in [Jordan Krywonos et al. (2408.05264)](https://arxiv.org/abs/2408.05264), we also used reconstruction based on data from Planck and unWISE surveys to rule out non-linear Gpc-scale voids, provide the tightest constraint on the intrinsic dipole (< 14 km/s at 68% confidence), rule out matter-radiation isocurvature as an explanation of discrepancies between the measured CMB and galaxy number count dipoles, and constrain the amplitude of local-type primordial non-Gaussianity (−220 < fNL < 136 at 68% confidence) and compensated isocurvature (−147 < ACIP < 281 at 68% confidence). This representative set of constraints on beyond-ΛCDM scenarios demonstrates the breadth of fundamental science possible with measurements of secondary CMB anisotropies.
+**Primordial non-Gaussianity.** The kSZ velocity field provides a direct handle on long-wavelength modes that modulate small-scale clustering. In [Anil Kumar et al. (2205.03423)](https://arxiv.org/abs/2205.03423), we showed that combining next-generation galaxy surveys with kSZ reconstruction improves constraints on the non-Gaussianity amplitude $f_{\rm NL}$ by an order of magnitude — and enables first constraints on the primordial trispectrum $\tau_{\rm NL}$, a probe of extra degrees of freedom during inflation.
 
+<img src='/images/fig3.png' class="img-medium" alt="Forecasted error ellipses on primordial non-Gaussianity from kSZ tomography">
+<p class="research-block__caption">Forecasted constraints on primordial non-Gaussianity with galaxy data alone (left) vs. with kSZ velocity reconstruction added (right). From <a href="https://arxiv.org/abs/2205.03423">Anil Kumar et al. (2205.03423)</a>.</p>
 
+**Compensated isocurvature perturbations.** These are primordial fluctuations in the relative baryon and dark matter density that leave the total matter density unchanged — making them nearly invisible to the CMB alone. Current constraints allow them to be hundreds of times larger than adiabatic perturbations, a surprisingly large gap in our knowledge. In [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953) and [Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829), we showed that kSZ tomography can improve these constraints by over two orders of magnitude. I have also explored complementary probes using the 21-cm signal during cosmic dawn in [Hotinli et al. (2106.11979)](https://arxiv.org/abs/2106.11979).
 
+<div class="fig-row fig-row--half">
+  <img src="/images/fig2.png" alt="Forecasted isocurvature amplitude constraints as a function of survey parameters">
+  <img src="/images/fig1.png" alt="Impact of survey parameters on kSZ-based constraints">
+</div>
+<p class="research-block__caption">Left: forecasted isocurvature constraints from kSZ tomography with different survey combinations. Right: impact of survey parameters on constraining power. From <a href="https://arxiv.org/abs/2208.02829">Anil Kumar et al. (2208.02829)</a> and <a href="https://arxiv.org/abs/1908.08953">Hotinli et al. (1908.08953)</a>.</p>
 
-The kSZ effect also offers powerful astrophysical insight into the ***distribution of ionized gas*** in cosmic structures. It constrains electron-gas profiles, probes the physics of ***baryonic feedback***, and provides an independent test of hydrodynamical simulations. Recent kSZ measurements suggest that a ***large fraction of baryons lie at greater radii*** than predicted and that feedback varies with halo mass and epoch. Because feedback strongly shapes both astrophysics and cosmological inference, characterizing it is essential. My near-term research will test feedback models against high-resolution simulations and data, building on pipelines that already perform these analyses. Advancing these tools is a major focus of my work.
+**Constraints beyond LCDM.** In [Krywonos et al. (2408.05264)](https://arxiv.org/abs/2408.05264), we used velocity reconstruction from Planck and unWISE data to simultaneously: rule out nonlinear Gpc-scale voids; set the tightest constraint on the intrinsic CMB dipole (< 14 km/s, 68% CL); rule out matter-radiation isocurvature as the source of CMB–galaxy dipole discrepancies; and constrain primordial non-Gaussianity and compensated isocurvature. This demonstrates the breadth of fundamental science accessible with kSZ-based methods, even in the current noise-dominated regime.
 
-Over the years I have helped define its scientific vision by identifying its most powerful early-Universe and late-time targets. 
+**Parity violation.** In [Vanzan, Kamionkowski & Hotinli (2311.18121)](https://arxiv.org/abs/2311.18121), we developed the phenomenology of a primordial vector field that generates compensated isocurvature perturbations and may explain recently reported parity-odd signals in galaxy surveys — testable with upcoming kSZ measurements.
 
-These include developing unique ***unbiased*** probes of ***electron gas distribution***:
-
-<br/><img src='/images/page_1_gal.jpg' width="1200">
-
-From [Neha Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249). Forecasted errors on the reconstruction of electron auto-correlation in three redshift bins of equal comoving width, ordered from lowest to highest z from left to right. The model predictions for the electron gas signal computed assuming the Battaglia ‘AGN’ model. All error bars assume CMB data from an SO-like telescope and DESI and LSST-like galaxy surveys.
-
-
-
-..and smoking-gun tests of ***primordial non-Gaussianity and isocurvature***:
-
-<br/><img src='/images/fig3.png' width="600">
-
-From [Neha Anil Kumar et al. (2205.03423)](https://arxiv.org/abs/2205.03423). Forecasted error ellipses on primordial non-Gaussianity signals at 68 and 95 percent confidence intervals, after marginalizing over bias parameters. Left: results when only galaxy survey data is considered. Right: results when velocity reconstruction data is added to the analysis.
-
-<br/><img src='/images/fig2.png' width="600">
-
-From [Neha Anil Kumar et al. (2208.02829)](https://arxiv.org/abs/2208.02829). Forecasted error on the primordial isocurvature amplitude after marginalizing over bias parameters as a function of largest scales (Left) and galaxy density (Right) considered in the analysis. Baseline I (II) corresponds to an LSST (DESI)-like galaxy survey. 
-
-<br/><img src='/images/fig1.png' width="1200">
-
-From [Hotinli et al. (1908.08953)](https://arxiv.org/abs/1908.08953). The impact of changing various survey parameters relevant for, or related to, cosmological experiments.
-
-
-
-The kSZ tomography will also play a role in probing many fundemental signatures including ***neutrino masses*** [Avery J. Tishue et al. 2502.05260](https://arxiv.org/abs/2502.05260), ***dark-energy microphysics*** [Julius Aldoff et al. (2511.05653)](https://arxiv.org/abs/2511.05653),  ***parity violation*** [Eleonora Vanzan et al. (2311.18121)](https://arxiv.org/abs/2311.18121), eternal inflation [P. Zhang and M. C. Johnson (1501.00511)](https://arxiv.org/abs/1501.00511) and ***modified gravity*** [Z. Pan, M. C. Johnson (1906.04208)](https://arxiv.org/abs/1906.04208).
-
-
-
-
-Among other things, the kSZ tomography and CMB secondaries program can also contribute significantly to the characterisation of both hydrogen and helium reionization.
-
-<br/><img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' width="550">
-
-Characterizing helium reionization is crucial for understanding galaxy formation, quasar evolution, and cosmology, and may even open a new window on big bang nucleosynthesis. Because photons from the first stars cannot fully ionize helium, helium reionization occurs only after a significant population of quasars emerges; its history therefore encodes quasar luminosities, accretion physics, clustering, variability, lifetimes, and the growth of supermassive black holes. Since nearly all helium becomes doubly ionized, the total change in ionization fraction also traces the primordial helium abundance—a sensitive probe of big bang nucleosynthesis. Improved constraints on helium reionization can tighten measurements of the primordial helium fraction, break degeneracies with the effective number of relativistic species, and shed light on weak interaction rates and the neutron lifetime. Given the observational challenges of helium emission-line measurements, complementary probes are especially valuable.
-
-In the recent years I have lead a program that demonstrated that joint analyses of CMB and large-scale structure data can detect signatures of helium reionization.
-
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="/images/helium1.png" width="39%; height: auto;">
-  <img src="/images/helium2.png" width="30.75%; height: auto;">
 </div>
 
-From [Hotinli et al. (2207.07660)](https://arxiv.org/abs/2207.07660). ***Left***: Fractional change in the electron fraction during helium reionization of the three models we consider here. Here, we include forecasts for the combination of VRO and CMB-S4, and MegaMapper and CMB-HD. ***Right***: The sensitivities on the helium reionization parameters from two survey combinations: VRO and CMB-S4 shown with blue contours, and MegaMapper and CMB-HD, shown with orange contours. 
 
-<br/><img src='/images/helium3.png' width="700">
+<div id="gas-feedback" class="research-section" markdown="1">
 
-From [Caliskan et al. (2312.00118)](https://arxiv.org/abs/2312.00118). Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from patchy optical depth reconstruction. Technique uses a four-point statistic combining CMB temperature, polarization, and galaxy clustering.
+## What can scattering signatures teach us about the life cycle of cosmic gas?
 
-<br/><img src='/images/helium4.png' width="700">
+<p class="research-intro">The same CMB cross-correlations that probe fundamental physics also encode detailed information about baryonic processes — how gas is heated, expelled, and redistributed by feedback from galaxies and active nuclei. These astrophysical signatures are both a science target in their own right and a critical systematic for precision cosmology.</p>
 
-From [Anil Kumar et al. (2506.11188)](https://arxiv.org/abs/2506.11188). Fractional errors of helium (right panel) and hydrogen (left panel) reionization parameters from projected kSZ. Technique uses a four-point statistic combining CMB temperature and galaxy clustering.
+**Electron gas distribution and baryonic feedback.** The kSZ effect constrains electron-gas profiles, probes the physics of baryonic feedback, and provides independent tests of hydrodynamical simulations. Recent measurements suggest that a large fraction of baryons lie at greater radii than predicted and that feedback varies with halo mass and epoch. Because baryonic feedback can induce significant deviations in lensing and matter power spectra, characterizing it is essential for both astrophysics and cosmological inference.
+
+In [Anil Kumar et al. (2509.18249)](https://arxiv.org/abs/2509.18249), we developed unbiased probes of the electron gas auto-correlation using kSZ tomography, with forecasts for the Simons Observatory combined with DESI and LSST-like surveys.
+
+<img src='/images/page_1_gal.jpg' class="img-full" alt="Forecasted electron auto-correlation reconstruction in three redshift bins">
+<p class="research-block__caption">Forecasted errors on electron auto-correlation reconstruction in three redshift bins, assuming the Battaglia AGN model. From <a href="https://arxiv.org/abs/2509.18249">Anil Kumar et al. (2509.18249)</a>.</p>
+
+<img src='/images/selim-hotinli-imperial-research-fellowship-1_1669245023933_0.jpg' class="img-medium" alt="Selim Hotinli presenting research on helium reionization">
+
+**Helium reionization.** Helium reionization is a distinct, later cosmic event driven by quasars. Its history encodes information about quasar evolution, the growth of supermassive black holes, and even the primordial helium abundance — a probe of big bang nucleosynthesis. I have led a program demonstrating that joint CMB and large-scale structure analyses can detect signatures of helium reionization, using multiple independent techniques.
+
+<div class="fig-row fig-row--half">
+  <img src="/images/helium1.png" alt="Helium reionization models showing fractional change in electron fraction">
+  <img src="/images/helium2.png" alt="Forecasted sensitivities on helium reionization parameters">
+</div>
+<p class="research-block__caption">Left: helium reionization models. Right: forecasted sensitivities from VRO + CMB-S4 (blue) and MegaMapper + CMB-HD (orange). From <a href="https://arxiv.org/abs/2207.07660">Hotinli et al. (2207.07660)</a>.</p>
+
+<img src='/images/helium3.png' class="img-wide" alt="Fractional errors on reionization parameters from patchy optical depth reconstruction">
+<p class="research-block__caption">Fractional errors on helium and hydrogen reionization parameters from patchy optical depth reconstruction. From <a href="https://arxiv.org/abs/2312.00118">Caliskan et al. (2312.00118)</a>.</p>
+
+<img src='/images/helium4.png' class="img-wide" alt="Fractional errors on reionization parameters from projected kSZ">
+<p class="research-block__caption">Fractional errors from projected kSZ, combining CMB temperature and galaxy clustering. From <a href="https://arxiv.org/abs/2506.11188">Anil Kumar et al. (2506.11188)</a>.</p>
+
+These measurements provide an independent observational probe of this key cosmic epoch, opening new possibilities to explore its connection to galaxy formation and the growth of cosmic structures.
+
+</div>
 
 
-Measurements using these teqniue will provide an independent observational probe of this key cosmic epoch and opening new possibilities to explore its connection to galaxy formation, quasar evolution, and the growth of cosmic structures. 
+<div id="neutrinos-de" class="research-section" markdown="1">
+
+## What can kSZ tomography reveal about neutrino masses and dark energy?
+
+<p class="research-intro">Neutrino masses and the nature of dark energy both leave signatures in how quickly structure grows over cosmic time. The velocity field reconstructed from kSZ measurements provides an independent probe of this growth rate, breaking degeneracies that limit traditional methods.</p>
+
+**Dark energy microphysics.** In [Adolff, Hotinli & Dalal (2511.05653)](https://arxiv.org/abs/2511.05653), we showed that kSZ tomography can go beyond measuring the expansion history to probe the perturbative properties of dark energy — its sound speed and clustering behavior. Forecasts show that adding kSZ data tightens constraints on the dark energy equation of state by 15–32%, with degeneracy directions distinct from geometric probes. This is especially relevant given recent tentative hints from DESI of deviations from LCDM.
+
+**Neutrino masses.** kSZ tomography provides complementary sensitivity to the sum of neutrino masses through its effect on the growth rate of structure. Forecasts in [Tishue et al. (2502.05260)](https://arxiv.org/abs/2502.05260) demonstrate that upcoming survey combinations will place competitive constraints.
+
+**Modified gravity and eternal inflation.** The kSZ velocity field also probes the growth rate directly, making it a natural test of modified gravity theories (see [Pan & Johnson (1906.04208)](https://arxiv.org/abs/1906.04208)) and large-scale signatures of eternal inflation (see [Zhang & Johnson (1501.00511)](https://arxiv.org/abs/1501.00511)).
+
+</div>
 
 
+<div id="beyond-ksz" class="research-section" markdown="1">
 
-### Other CMB signatures
+## What other CMB signatures carry information about large-scale structure?
 
-In the last years I have also made valuable contributions to identifying various novel CMB signatures including the moving lens effect (Hotinli et al 2018, Hotinli et al 2020, Hotinli et al 2021), the pSZ (Lee et al 2022) and kpSZ (Hotinli et al 2022) effects. My efforts on these lines also explored the full reach of the prospects to probing fundamental physics with these signatures. The moving-lens effect is due to cosmological structure moving transverse to our line of sight and results of purely gravitational effects. As a result, it can be used to measure quantities which cannot be accessed directly with the kSZ effect alone, such as the growth rate of density fluctuations, which is useful for studying dark energy, modified gravity, and the effects of neutrino mass (Hotinli et al 2018). The polarized Sunyaev Zel'dovich (pSZ) effect is a linear blackbody polarization sourced by photons that scatter off free electrons in the large-scale structure, proportional to the remote CMB temperature quadrupole observed in the electrons’ rest frame. The measurement of pSZ effect allows reconstructing the linear polarization of the CMB as a function of redshift on the light cone. This allows probing the tensor to scalar ratio as well as the cosmic birefringence angle (Lee et al 2022) that is sourced if the physics behind dark energy and/or dark matter violates the parity symmetry assumed in the standard cosmological paradigm. Relativistic corrections to the remote quadrupole field also give rise to a non-blackbody polarization anisotropy proportional to the square of the transverse peculiar velocity field; this is the kinetic polarized Sunyaev Zel’dovich (kpSZ) effect. The kpSZ effect is also a probe of cosmic birefringence and primordial non-Gaussianity (Hotinli et al 2022).
+<p class="research-intro">The kSZ effect is one member of a broader family of CMB–large-scale-structure interactions. Each signature opens an independent window onto cosmology and astrophysics, and the methods developed in one context often unlock measurements in another.</p>
 
-### Improving CMB measurements
+**The moving-lens effect.** The bulk transverse motion of massive structures induces a small-scale dipolar temperature pattern centered on each halo. Unlike the kSZ effect, this is a purely gravitational signature, making it a clean probe of the transverse velocity field and the growth rate of structure. I derived optimal detection filters and forecasted signal-to-noise ~20 with CMB-S4 and the Rubin Observatory. [[Hotinli et al. (1710.08913)]](https://arxiv.org/abs/1710.08913) [[Hotinli, Johnson & Meyers (2006.03060)]](https://arxiv.org/abs/2006.03060)
 
-The effects of gravitational lensing and scattering on the CMB photons is both a help and hindrance to our understanding of the history and contents of the Universe. Both lensing and scattering effects manifest themselves as a distortion of the primary CMB anisotropies and also functions as an obstacle to analyses which rely on a pristine view of the last scattering surface. Simons Observatory and the succeeding experiments will map the CMB sky with unprecedented precision where these effects will be limiting factors to cosmological inference. My current and future efforts also focus on mitigating the effects of lensing and scattering on the primary CMB with the goal of improving the forthcoming cosmological parameter constraints. 
+**Polarized Sunyaev-Zel'dovich (pSZ) effect.** CMB photons scattering off free electrons acquire a polarization proportional to the CMB quadrupole at the scatterer's location. Measuring this allows reconstruction of CMB polarization as a function of redshift — a new probe of the tensor-to-scalar ratio and cosmic birefringence. Tentative hints of birefringence in Planck and WMAP data motivate this as an independent validation path. [[Lee, Hotinli & Kamionkowski (2207.05687)]](https://arxiv.org/abs/2207.05687)
 
-To this end, I co-developed a code for robust treatments of CMB ‘delensing’ on the curved sky, demonstrating the impact that removing the lensing effect from the CMB map will have with future surveys. Together with the forecasting framework I co-developed, these softwares are now becoming parts of the main analysis pipelines of the upcoming CMB experiments. I have also authored research papers on assessing the prospects to delens the CMB temperature and polarisation maps as well as to remove the kSZ effect using external galaxy templates, or ‘de-kSZing' (Foreman, Hotinli et al 2020).
+**Kinetic polarized SZ (kpSZ) effect.** Relativistic corrections to the remote quadrupole produce a non-blackbody polarization signal proportional to the square of the transverse velocity. This is an additional probe of cosmic birefringence and primordial non-Gaussianity, detectable with CMB-S4. [[Hotinli et al. (2204.12503)]](https://arxiv.org/abs/2204.12503)
 
-The delensed CMB spectra have sharper acoustic peaks and more prominent damping tails, allowing for improved inferences of cosmological parameters that impact those features. Delensing reduces the B-mode power, aiding the search for primordial gravitational waves and allowing for lower variance reconstruction of lensing and other sources of secondary CMB anisotropies. Lensing-induced power spectrum covariances are reduced by delensing, simplifying analyses and improving constraints on primordial non-Gaussianities. Biases that result from incorrectly modelling nonlinear and baryonic feedback effects on the lensing power spectrum are mitigated by delensing. All of these benefits are possible without any changes to experimental or survey design. 
+</div>
 
-The situation with the kSZ effect is analogous to that of gravitational lensing. In a recent work, we investigated the prospects for external “de-kSZing'' of CMB temperature maps, whereby an external galaxy survey is used to construct a template for the kSZ effect, which is then subtracted from the observed maps. The kSZ effect can significantly bias lensing reconstruction, affecting our ability to constrain neutrino mass, dark energy, and dark matter. Furthermore, kSZ fluctuations at small scales add noise to measurements of the Silk-damped regime of the primary CMB, which can be used to probe Neff, the primordial helium abundance, and the spectrum of primordial scalar perturbations. The kSZ effect also acts as noise for measurements of other CMB secondaries, such as the moving-lens effect.
+
+<div id="tools" class="research-section" markdown="1">
+
+## How can we remove foreground contamination to sharpen every measurement?
+
+<p class="research-intro">Many of the signals described above also act as contaminants for one another. I have developed techniques to subtract these contributions, improving sensitivity across multiple science targets. These methods close the loop: the same reconstructions that enable new science also clean the data for existing analyses.</p>
+
+**Delensing.** Gravitational lensing of the CMB is both a rich signal and a source of noise for other measurements. I co-developed a code for robust delensing on the curved sky, now being integrated into analysis pipelines for upcoming CMB experiments. Delensed CMB spectra have sharper acoustic peaks and reduced B-mode power, improving constraints on primordial gravitational waves and mitigating biases from baryonic feedback modeling.
+
+**De-kSZing.** The kSZ effect itself can bias lensing reconstruction and add noise to measurements of the Silk-damped primary CMB — affecting sensitivity to $N_{\rm eff}$, the primordial helium abundance, and the spectrum of primordial scalar perturbations. In [Foreman, Hotinli et al. (2009.03060)](https://arxiv.org/abs/2009.03060), we showed that external galaxy templates can be used to construct and subtract kSZ estimates from the observed maps, improving sensitivity to these targets as well as to neutrino mass, dark energy, and other CMB secondaries.
+
+</div>
+
+
+<div class="research-section" markdown="1">
+
+## Looking Ahead
+
+The next generation of CMB experiments and galaxy surveys — including CMB-S4, the Simons Observatory, DESI, and the Rubin Observatory — will transform these methods from forecasts into high-precision measurements. My ongoing work focuses on preparing the analysis frameworks needed to extract the full scientific return from these datasets, continuing to bridge the simplicity of the early Universe with the complexity of the structures it gave rise to.
+
+</div>
