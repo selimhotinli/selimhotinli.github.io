@@ -10,8 +10,8 @@
 <!-- Academicons: icon font for academic profile links (Google Scholar, ORCID, etc.) -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- Responsive video wrapper -->
 <style>
+  /* Responsive video wrapper */
   .video-responsive {
     position: relative;
     padding-bottom: 56.25%;
@@ -28,6 +28,87 @@
     height: 100%;
     border: 0;
     border-radius: 4px;
+  }
+
+  /* Hero section */
+  .hero-section {
+    margin-bottom: 1.5em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #30363d;
+  }
+  .hero-name {
+    font-size: 2em;
+    font-weight: 700;
+    margin: 0 0 0.3em;
+    line-height: 1.1;
+    color: #e6edf3;
+  }
+  .hero-tagline {
+    font-size: 1.1em;
+    color: #20c997;
+    margin: 0 0 0.4em;
+    line-height: 1.4;
+    font-weight: 400;
+  }
+  .hero-position {
+    font-size: 0.95em;
+    color: #8b949e;
+    margin: 0;
+  }
+
+  /* Navigation cards */
+  .nav-cards {
+    display: flex;
+    gap: 1em;
+    margin-top: 2em;
+  }
+  .nav-card {
+    flex: 1;
+    display: block;
+    padding: 1.2em;
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    text-decoration: none !important;
+    color: #e6edf3 !important;
+    transition: border-color 0.2s ease, transform 0.2s ease;
+    position: relative;
+  }
+  .nav-card:hover {
+    border-color: #20c997;
+    transform: translateY(-2px);
+  }
+  .nav-card h3 {
+    margin: 0 0 0.4em;
+    font-size: 1em;
+    font-weight: 600;
+    color: #20c997;
+  }
+  .nav-card p {
+    margin: 0;
+    font-size: 0.8em;
+    color: #8b949e;
+    line-height: 1.4;
+  }
+  .nav-card__arrow {
+    position: absolute;
+    top: 1.2em;
+    right: 1.2em;
+    color: #30363d;
+    font-size: 1.1em;
+    transition: color 0.2s ease;
+  }
+  .nav-card:hover .nav-card__arrow {
+    color: #20c997;
+  }
+
+  @media (max-width: 600px) {
+    .nav-cards {
+      flex-direction: column;
+    }
+    .hero-name {
+      font-size: 1.6em;
+    }
   }
 </style>
 
