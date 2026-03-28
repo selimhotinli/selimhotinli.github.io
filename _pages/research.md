@@ -133,11 +133,11 @@ These measurements provide an independent observational probe of this key cosmic
 
 <p class="research-intro">The kSZ effect is one member of a broader family of CMB–large-scale-structure interactions. Each signature opens an independent window onto cosmology and astrophysics, and the methods developed in one context often unlock measurements in another.</p>
 
-**The moving-lens effect.** The bulk transverse motion of massive structures induces a small-scale dipolar temperature pattern centered on each halo. Unlike the kSZ effect, this is a purely gravitational signature, making it a clean probe of the transverse velocity field and the growth rate of structure. I derived optimal detection filters and forecasted signal-to-noise ~20 with CMB-S4 and the Rubin Observatory. [[Hotinli et al. (1710.08913)]](https://arxiv.org/abs/1710.08913) [[Hotinli, Johnson & Meyers (2006.03060)]](https://arxiv.org/abs/2006.03060)
+**The moving-lens effect.** The bulk transverse motion of massive structures induces a small-scale dipolar temperature pattern centered on each halo. Unlike the kSZ effect, this is a purely gravitational signature, making it a clean probe of the transverse velocity field and the growth rate of structure. I derived optimal detection filters and forecasted signal-to-noise ~20 with next-generation CMB experiments and the Rubin Observatory. [[Hotinli et al. (1710.08913)]](https://arxiv.org/abs/1710.08913) [[Hotinli, Johnson & Meyers (2006.03060)]](https://arxiv.org/abs/2006.03060)
 
 **Polarized Sunyaev-Zel'dovich (pSZ) effect.** CMB photons scattering off free electrons acquire a polarization proportional to the CMB quadrupole at the scatterer's location. Measuring this allows reconstruction of CMB polarization as a function of redshift — a new probe of the tensor-to-scalar ratio and cosmic birefringence. Tentative hints of birefringence in Planck and WMAP data motivate this as an independent validation path. [[Lee, Hotinli & Kamionkowski (2207.05687)]](https://arxiv.org/abs/2207.05687)
 
-**Kinetic polarized SZ (kpSZ) effect.** Relativistic corrections to the remote quadrupole produce a non-blackbody polarization signal proportional to the square of the transverse velocity. This is an additional probe of cosmic birefringence and primordial non-Gaussianity, detectable with CMB-S4. [[Hotinli et al. (2204.12503)]](https://arxiv.org/abs/2204.12503)
+**Kinetic polarized SZ (kpSZ) effect.** Relativistic corrections to the remote quadrupole produce a non-blackbody polarization signal proportional to the square of the transverse velocity. This is an additional probe of cosmic birefringence and primordial non-Gaussianity, detectable with upcoming CMB experiments. [[Hotinli et al. (2204.12503)]](https://arxiv.org/abs/2204.12503)
 
 </div>
 
@@ -159,6 +159,6 @@ These measurements provide an independent observational probe of this key cosmic
 
 ## Looking Ahead
 
-The next generation of CMB experiments and galaxy surveys — including CMB-S4, the Simons Observatory, DESI, and the Rubin Observatory — will transform these methods from forecasts into high-precision measurements. My ongoing work focuses on preparing the analysis frameworks needed to extract the full scientific return from these datasets, continuing to bridge the simplicity of the early Universe with the complexity of the structures it gave rise to.
+The next generation of CMB experiments and galaxy surveys — including the Simons Observatory, DESI, and the Rubin Observatory — will transform these methods from forecasts into high-precision measurements. My ongoing work focuses on preparing the analysis frameworks needed to extract the full scientific return from these datasets, continuing to bridge the simplicity of the early Universe with the complexity of the structures it gave rise to.
 
 </div>
