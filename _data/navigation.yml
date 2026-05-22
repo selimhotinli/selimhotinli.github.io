@@ -3,9 +3,12 @@ main:
   - title: "Cosmic Ecosystems"
     url: /cosmicecosystems/
 
+  - title: "Moving Lens Effect"
+    url: /movinglenseffect/
+
   - title: "Research"
     url: /research/
-    
+
   - title: "CV"
     url: /cv/
-    
+
