@@ -47,8 +47,8 @@ Velocity fields can be reconstructed at cosmological scales from their influence
 
 We find strong evidence for a non-zero amplitude of the cross-correlation $b_{\rm ML} = 1.24 \pm 0.26$ ($4.8\sigma$), consistent with the halo-model prediction for the moving lens signal.
 
-<img src="/images/movinglens_result.png" class="img-wide" alt="Measured galaxy-velocity cross-correlation showing first detection of the moving lens effect, 2x3 panels for 220 GHz and NILC across NGC+SGC, NGC, and SGC sky cuts.">
-<p class="research-block__caption">Measured galaxy-velocity cross-correlation in three sky cuts (NGC+SGC, NGC, SGC) for two foreground treatments: the 220 GHz channel (top row) and NILC foreground-cleaned maps (bottom row). The headline detection is $b_{\rm ML} = 1.24 \pm 0.26$ ($4.8\sigma$, $\chi^2/{\rm dof} = 0.64$, PTE $= 0.67$) in the NILC × NGC+SGC analysis (bottom-left). The dashed curve shows the halo-model prediction for $b_{\rm ML} = 1$. From <a href="https://arxiv.org/abs/2605.18938">Hotinli et al. (2605.18938)</a>.</p>
+<img src="/images/movinglens_result.png" class="img-wide" alt="Measured galaxy-velocity cross-correlation showing first detection of the moving lens effect in three sky cuts from NILC foreground-cleaned ACT DR6 maps.">
+<p class="research-block__caption">Measured galaxy-velocity cross-correlation in three sky cuts (NGC+SGC, NGC, SGC), from NILC foreground-cleaned ACT DR6 maps. The headline detection is $b_{\rm ML} = 1.24 \pm 0.26$ ($4.8\sigma$, $\chi^2/{\rm dof} = 0.64$, PTE $= 0.67$) in the NGC+SGC analysis (left panel). The dashed curve shows the halo-model prediction for $b_{\rm ML} = 1$. From <a href="https://arxiv.org/abs/2605.18938">Hotinli et al. (2605.18938)</a>.</p>
 
 These results constitute the first detection of the moving lens effect and unlock access to transverse velocities.
 
