@@ -151,7 +151,5 @@ These results constitute the first detection of the moving lens effect and unloc
 - <a href="https://arxiv.org/abs/2108.02207">arXiv:2108.02207</a> — *Cosmology with the moving lens effect* (2021)
 - <a href="https://arxiv.org/abs/2006.03060">arXiv:2006.03060</a> — *Optimal filters for the moving lens effect* (2020)
 - <a href="https://arxiv.org/abs/1812.03167">arXiv:1812.03167</a> — *Transverse Velocities with the Moving Lens Effect* (2018)
-- <a href="https://www.youtube.com/watch?v=QiViSKMSv2A">Video summary</a> — YouTube
-- <a href="/research/#beyond-ksz">Context</a> — Beyond kSZ section on the Research page
 
 </div>
