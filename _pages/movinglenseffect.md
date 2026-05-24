@@ -23,6 +23,7 @@ use_math: true
   <a href="#detection">The Detection</a>
   <a href="#lineage">Lineage</a>
   <a href="#resources">Resources</a>
+  <a href="#related">Related works</a>
 </div>
 
 
@@ -59,7 +60,7 @@ These results constitute the first detection of the moving lens effect and unloc
 
 ## Lineage
 
-<p class="research-intro">From prediction to first detection — eight years, four phases.</p>
+<p class="research-intro">From prediction to first detection — eight years.</p>
 
 <div class="lineage-rail" markdown="1">
 
@@ -151,5 +152,16 @@ These results constitute the first detection of the moving lens effect and unloc
 - <a href="https://arxiv.org/abs/2108.02207">arXiv:2108.02207</a> — *Cosmology with the moving lens effect* (2021)
 - <a href="https://arxiv.org/abs/2006.03060">arXiv:2006.03060</a> — *Optimal filters for the moving lens effect* (2020)
 - <a href="https://arxiv.org/abs/1812.03167">arXiv:1812.03167</a> — *Transverse Velocities with the Moving Lens Effect* (2018)
+
+</div>
+
+
+<div id="related" class="research-section" markdown="1">
+
+## Related works
+
+- <a href="https://ui.adsabs.harvard.edu/abs/1983Natur.302..315B">Birkinshaw &amp; Gull (1983)</a> — *A test for transverse motions of clusters of galaxies*, Nature 302, 315 — the original prediction of the moving lens effect.
+- <a href="https://arxiv.org/abs/1812.04241">arXiv:1812.04241</a> — *Pairwise Transverse Velocity Measurement with the Rees-Sciama Effect*, Yasini, Mirzatuny &amp; Pierpaoli (2018)
+- <a href="https://arxiv.org/abs/2408.16055">arXiv:2408.16055</a> — *The Moving Lens Effect: Simulations, Forecasts and Foreground Mitigation*, Beheshti, Schaan &amp; Kosowsky (2024)
 
 </div>
