@@ -10,8 +10,8 @@ use_math: true
 
 My research program is organized around two observations in productive interplay: the striking simplicity of the early Universe and the rich complexity of the astrophysical processes that followed. The cosmic microwave background — the oldest light in the Universe — travels billions of years before reaching our telescopes, and along the way it is scattered, distorted, and imprinted by every structure it encounters. I exploit the CMB as a cosmic backlight, developing methods that use these imprints to simultaneously probe fundamental physics and the astrophysical processes that shape structure formation.
 
-<img src='/images/Secondary_Signals.jpg' class="img-small" alt="Illustration of secondary CMB signals from scattering and lensing by large-scale structure">
-<p class="research-block__caption">Image: Merrill Sherman / Quanta Magazine.</p>
+<img src='/images/secondary_signals_horizontal.png' class="img-wide" alt="Illustration of secondary CMB signals: CMB photons travel through cosmic structure and scatter and lens before reaching a microwave telescope">
+<p class="research-block__caption">Image inspired by Merrill Sherman / Quanta Magazine. Earth icon: <a href="https://openmoji.org/">OpenMoji</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>).</p>
 
 <div class="research-nav">
   <a href="#velocity">Velocity Reconstruction</a>
