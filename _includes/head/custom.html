@@ -340,6 +340,130 @@
     border-color: #20c997;
   }
 
+  /* Workflow page: failure -> tool mapping */
+  .map-list { margin: 1.2em 0 0.5em; }
+  .map-row {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    padding: 0.7em 0;
+    border-top: 1px solid #21262d;
+  }
+  .map-row:first-child { border-top: none; }
+  .map-row__from {
+    flex: 0 0 38%;
+    text-align: right;
+    color: #8b949e;
+    font-size: 0.85em;
+    line-height: 1.4;
+  }
+  .map-row__arrow { color: #30363d; flex: 0 0 auto; }
+  .map-row__to { flex: 1; }
+  .map-row__to strong { color: #20c997; font-weight: 600; }
+  .map-row__to span {
+    display: block;
+    color: #8b949e;
+    font-size: 0.8em;
+    margin-top: 0.15em;
+  }
+
+  /* Workflow page: generic card grid (agent panel, take-home advice) */
+  .role-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8em;
+    margin: 1.3em 0;
+  }
+  .role-card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 0.9em 1em;
+  }
+  .role-card h4 {
+    margin: 0 0 0.35em;
+    font-size: 0.9em;
+    color: #20c997;
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 700;
+  }
+  .role-card p { margin: 0; font-size: 0.8em; color: #8b949e; line-height: 1.5; }
+  .role-card__n { color: #8b949e; margin-right: 0.45em; }
+  /* advice variant: proportional (Inter) headers — mono is reserved for real role names */
+  .role-grid--advice .role-card h4 {
+    font-family: "Inter", -apple-system, "Segoe UI", "Roboto", sans-serif;
+    font-weight: 600;
+  }
+
+  /* Workflow page: numbered principles ("use with care") */
+  .principle { display: flex; gap: 0.9em; margin: 0.9em 0; align-items: flex-start; }
+  .principle__n {
+    flex: 0 0 1.9em;
+    height: 1.9em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #161b22;
+    border: 1px solid #20c997;
+    border-radius: 6px;
+    color: #20c997;
+    font-weight: 700;
+    font-size: 0.85em;
+  }
+  .principle__body strong { color: #e6edf3; display: block; margin-bottom: 0.15em; }
+  .principle__body span { color: #8b949e; font-size: 0.88em; line-height: 1.5; }
+
+  /* Workflow page: compact horizontal flow (scope -> plan -> implement) */
+  .flow { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5em; margin: 1.2em 0; }
+  .flow-step {
+    padding: 0.4em 0.95em;
+    border: 1px solid #30363d;
+    border-radius: 20px;
+    background: #161b22;
+    color: #e6edf3;
+    font-size: 0.85em;
+  }
+  .flow-step--loop { border-color: #20c997; color: #20c997; }
+  .flow-arrow { color: #30363d; }
+
+  /* Workflow page: lecture outline (cards + takeaway) + contact call-to-action */
+  .role-grid--advice { align-items: start; }              /* size cards to content, no dead space */
+  .role-grid--advice .role-card { border-left: 2px solid #20c997; }  /* teal accent marks the lecture destination */
+  .lecture-list { margin: 0.15em 0 0; padding-left: 1.2em; }
+  .lecture-list li { font-size: 0.8em; color: #8b949e; line-height: 1.55; margin: 0.25em 0; }
+  .lecture-takeaway {
+    margin: 0.75em 0 0;
+    padding-top: 0.6em;
+    border-top: 1px solid #30363d;
+    color: #20c997;
+    font-size: 0.78em;
+    font-style: italic;
+    line-height: 1.5;
+  }
+  .contact-cta {
+    margin: 1.7em 0 0.3em;
+    padding: 1.15em 1.2em;
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    text-align: center;
+  }
+  .contact-cta p { margin: 0 0 0.75em; color: #8b949e; font-size: 0.9em; }
+  .contact-cta a {
+    display: inline-block;
+    padding: 0.45em 1.15em;
+    border: 1px solid #20c997;
+    border-radius: 20px;
+    color: #20c997;
+    font-size: 0.85em;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .contact-cta a:hover,
+  .contact-cta a:focus-visible { background: #20c997; color: #0d1117; }
+  .contact-cta a:focus-visible { outline: 2px solid #20c997; outline-offset: 2px; }
+
   @media (max-width: 600px) {
     .nav-cards { flex-direction: column; }
     .hero-name { font-size: 1.6em; }
@@ -357,6 +481,10 @@
     .speaker-grid { grid-template-columns: 1fr; }
     .fig-row img, .fig-row video { max-width: 100% !important; flex: none !important; }
     .research-nav { gap: 0.4em; }
+    .role-grid { grid-template-columns: 1fr; }
+    .map-row { flex-direction: column; align-items: flex-start; gap: 0.3em; }
+    .map-row__from { text-align: left; flex: none; }
+    .map-row__arrow { transform: rotate(90deg); }
   }
 </style>
 

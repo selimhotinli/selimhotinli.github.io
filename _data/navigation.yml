@@ -9,6 +9,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Research Workflow"
+    url: /workflow/
+
   - title: "CV"
     url: /cv/
 
